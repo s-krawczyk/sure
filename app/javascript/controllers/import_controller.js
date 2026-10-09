@@ -17,6 +17,7 @@ export default class extends Controller {
 
   connect() {
     if (
+      this.hasAmountTypeStrategySelectTarget &&
       this.amountTypeStrategySelectTarget.value === "custom_column" &&
       this.amountTypeColumnKeyValue
     ) {
