@@ -603,6 +603,23 @@ class SureImportTest < ActiveSupport::TestCase
     assert_includes codes, "missing_reference"
   end
 
+  test "preflight accepts Polish investment subtypes" do
+    attach_ndjson(build_ndjson(%w[ppk ppe ike ikze oipe].each_with_index.map do |subtype, i|
+      { type: "Account", data: {
+        id: "account-#{i}",
+        name: "Polish #{subtype}",
+        balance: "1000",
+        currency: "PLN",
+        accountable_type: "Investment",
+        accountable: { subtype: subtype }
+      } }
+    end))
+
+    result = @import.sure_preflight
+
+    assert result.valid?, "expected Polish subtypes to pass preflight, got: #{result.errors.map { |e| e[:code] }.inspect}"
+  end
+
   test "preflight allows null rule names and treats orphaned rejected transfers as warnings" do
     attach_ndjson(build_ndjson([
       { type: "Rule", data: { id: "rule-1", name: nil, resource_type: "transaction" } },

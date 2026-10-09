@@ -107,6 +107,26 @@ class Security::Price::ImporterTest < ActiveSupport::TestCase
     assert_equal "Rate limit exceeded", entry.metadata["provider_error"]
   end
 
+  test "logs the provider and imported count on success" do
+    Security::Price.delete_all
+
+    provider_response = provider_success_response([
+      OpenStruct.new(security: @security, date: Date.current, price: 160, currency: "USD")
+    ])
+
+    @provider.stubs(:fetch_security_prices).returns(provider_response)
+
+    Rails.logger.stubs(:info)
+    Rails.logger.expects(:info).with(regexp_matches(/Imported \d+ prices for #{@security.ticker} from /))
+
+    Security::Price::Importer.new(
+      security: @security,
+      security_provider: @provider,
+      start_date: Date.current,
+      end_date: Date.current
+    ).import_provider_prices
+  end
+
   test "writes post-listing prices when holding predates provider history" do
     # Regression: a 2018-06-15 trade for a pair the provider only has from
     # 2020-01-03 onwards (e.g. BTCEUR on Binance) used to hit the

@@ -116,6 +116,7 @@ nl:
       au: Australië
       eu: Europa
       generic: Algemeen
+      pl: Polen
     confirm_unlink:
       title: Account ontkoppelen van provider?
       description_html: "U staat op het punt om <strong>%{account_name}</strong> te ontkoppelen van <strong>%{provider_name}</strong>. Dit zal het omzetten naar een handmatig account."

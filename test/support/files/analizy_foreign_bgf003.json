@@ -1,0 +1,98 @@
+{
+  "id": "BGF003_A2_USD",
+  "label": "BlackRock GF China A2 (USD)",
+  "currency": "USD",
+  "isRegular": true,
+  "isDividend": false,
+  "periods": [
+    {
+      "period": "1M",
+      "label": "1M",
+      "start": "2026-09-08",
+      "end": "2026-10-08"
+    },
+    {
+      "period": "3M",
+      "label": "3M",
+      "start": "2026-07-08",
+      "end": "2026-10-08"
+    },
+    {
+      "period": "12M",
+      "label": "12M",
+      "start": "2025-10-08",
+      "end": "2026-10-08"
+    },
+    {
+      "period": "36M",
+      "label": "36M",
+      "start": "2023-10-06",
+      "end": "2026-10-08"
+    },
+    {
+      "period": "60M",
+      "label": "60M",
+      "start": "2021-10-08",
+      "end": "2026-10-08"
+    },
+    {
+      "period": "120M",
+      "label": "120M",
+      "start": "2016-10-07",
+      "end": "2026-10-08"
+    },
+    {
+      "period": "YTD",
+      "label": "YTD",
+      "start": "2025-12-31",
+      "end": "2026-10-08"
+    },
+    {
+      "period": "MAX",
+      "label": "MAX",
+      "start": "2008-06-24",
+      "end": "2026-10-08"
+    }
+  ],
+  "events": [],
+  "dividends": [],
+  "series": [
+    {
+      "id": "fund_BGF003_A2_USD",
+      "label": "Fundusz",
+      "currency": "USD",
+      "price": [
+        {
+          "date": "2008-06-24",
+          "value": 10.0
+        },
+        {
+          "date": "2008-06-25",
+          "value": 10.13
+        },
+        {
+          "date": "2008-06-26",
+          "value": 10.07
+        },
+        {
+          "date": "2026-10-06",
+          "value": 19.19
+        },
+        {
+          "date": "2026-10-07",
+          "value": 19.06
+        },
+        {
+          "date": "2026-10-08",
+          "value": 18.88
+        }
+      ]
+    },
+    {
+      "id": "fund_with_dividend_BGF003_A2_USD",
+      "label": "Fundusz z dywidendą",
+      "currency": "USD",
+      "price": []
+    }
+  ]
+}

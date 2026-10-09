@@ -356,6 +356,21 @@ class AccountTest < ActiveSupport::TestCase
     assert_equal I18n.t("accounts.tax_treatments.tax_deferred"), account.tax_treatment_label
   end
 
+  test "tax_treatment delegates to accountable for a Polish PPK investment" do
+    investment = Investment.new(subtype: "ppk")
+    account = @family.accounts.create!(
+      owner: @admin,
+      name: "Test PPK",
+      balance: 5000,
+      currency: "PLN",
+      accountable: investment
+    )
+
+    assert_equal :tax_advantaged, account.tax_treatment
+    assert_equal I18n.t("accounts.tax_treatments.tax_advantaged"), account.tax_treatment_label
+    assert account.tax_advantaged?
+  end
+
   test "tax_treatment delegates to accountable for Crypto" do
     crypto = Crypto.new(tax_treatment: :taxable)
     account = @family.accounts.create!(

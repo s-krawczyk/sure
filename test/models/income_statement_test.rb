@@ -556,15 +556,24 @@ class IncomeStatementTest < ActiveSupport::TestCase
       accountable: Crypto.new(tax_treatment: "tax_deferred")
     )
 
+    ppk = @family.accounts.create!(
+      name: "PPK",
+      currency: @family.currency,
+      balance: 15000,
+      accountable: Investment.new(subtype: "ppk")
+    )
+
     # Clear the memoized value
     @family.instance_variable_set(:@tax_advantaged_account_ids, nil)
 
     tax_advantaged_ids = @family.tax_advantaged_account_ids
 
-    # Should include Roth IRA, Traditional IRA, and tax-deferred Crypto
+    # Should include Roth IRA, Traditional IRA, tax-deferred Crypto, and the
+    # Polish PPK (tax_advantaged subtype)
     assert_includes tax_advantaged_ids, roth_ira.id
     assert_includes tax_advantaged_ids, traditional_ira.id
     assert_includes tax_advantaged_ids, crypto_deferred.id
+    assert_includes tax_advantaged_ids, ppk.id
 
     # Should NOT include taxable accounts
     refute_includes tax_advantaged_ids, brokerage.id

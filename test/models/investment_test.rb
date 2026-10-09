@@ -133,7 +133,7 @@ class InvestmentTest < ActiveSupport::TestCase
   end
 
   test "all subtypes have valid region values" do
-    valid_regions = [ "us", "uk", "ca", "au", "eu", "in", nil ]
+    valid_regions = [ "us", "uk", "ca", "au", "eu", "in", "pl", nil ]
 
     Investment::SUBTYPES.each do |key, metadata|
       assert_includes valid_regions, metadata[:region],
@@ -175,5 +175,40 @@ class InvestmentTest < ActiveSupport::TestCase
     assert grouped.any?, "grouped should not be empty"
     first_group_label = grouped.first[0]
     assert_equal I18n.t("accounts.subtype_regions.in"), first_group_label
+  end
+
+  # Poland subtypes
+
+  test "Polish retirement subtypes have the expected tax treatments" do
+    expected = {
+      "ppk" => :tax_advantaged,
+      "ike" => :tax_exempt,
+      "ikze" => :tax_deferred,
+      "ppe" => :tax_deferred,
+      "oipe" => :tax_deferred
+    }
+
+    expected.each do |subtype, treatment|
+      investment = Investment.new(subtype: subtype)
+      assert_equal treatment, investment.tax_treatment, "Expected #{subtype} to be #{treatment}"
+    end
+  end
+
+  test "Polish subtypes all belong to the 'pl' region" do
+    poland_keys = Investment::SUBTYPES.keys.select { |k| Investment::SUBTYPES.dig(k, :region) == "pl" }
+    assert_equal %w[ike ikze oipe ppe ppk].sort, poland_keys.sort
+  end
+
+  test "subtypes_grouped_for_select places Poland region first for PLN users" do
+    grouped = Investment.subtypes_grouped_for_select(currency: "PLN")
+    assert grouped.any?, "grouped should not be empty"
+    first_group_label = grouped.first[0]
+    assert_equal I18n.t("accounts.subtype_regions.pl"), first_group_label
+
+    poland_group = grouped.find { |label, _| label == I18n.t("accounts.subtype_regions.pl") }
+    poland_subtypes = poland_group[1].map { |item| item.is_a?(Array) ? item[1] : item }
+    %w[ppk ppe ike ikze oipe].each do |subtype|
+      assert_includes poland_subtypes, subtype, "Expected #{subtype} in the Poland group"
+    end
   end
 end

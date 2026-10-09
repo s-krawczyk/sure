@@ -18,12 +18,12 @@ class Security::Price::Importer
   # Returns the number of rows upserted.
   def import_provider_prices
     if !clear_cache && all_prices_exist?
-      Rails.logger.info("No new prices to sync for #{security.ticker} between #{start_date} and #{end_date}, skipping")
+      Rails.logger.info("No new prices to sync for #{security.ticker} from #{security_provider.class.name} between #{start_date} and #{end_date}, skipping")
       return 0
     end
 
     if provider_prices.empty?
-      Rails.logger.warn("Could not fetch prices for #{security.ticker} between #{start_date} and #{end_date} because provider returned no prices")
+      Rails.logger.warn("Could not fetch prices for #{security.ticker} from #{security_provider.class.name} between #{start_date} and #{end_date} because provider returned no prices")
       return 0
     end
 
@@ -127,6 +127,11 @@ class Security::Price::Importer
     end
 
     result = upsert_rows(gapfilled_prices)
+
+    Rails.logger.info(
+      "Imported #{result} prices for #{security.ticker} from #{security_provider.class.name} " \
+      "(#{fill_start_date}..#{end_date})"
+    )
 
     # Persist the advanced start date so subsequent syncs can clamp
     # expected_count and short-circuit via all_prices_exist? instead of

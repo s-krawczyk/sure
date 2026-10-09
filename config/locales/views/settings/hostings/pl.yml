@@ -251,6 +251,7 @@ pl:
         mfapi_hint: za darmo, bez klucza API - tylko indyjskie fundusze inwestycyjne
         moex_public_hint: za darmo, bez klucza API - rosyjskie akcje, fundusze i obligacje
           (MOEX), łącznie z kursem RUB
+        analizy_hint: za darmo, bez klucza API - polskie fundusze TFI
         providers:
           alpha_vantage: Alpha Vantage
           binance_public: Binance
@@ -258,6 +259,7 @@ pl:
           frankfurter: Frankfurter
           mfapi: MFAPI.in
           moex_public: MOEX
+          analizy: Analizy.pl
           tiingo: Tiingo
           tinkoff_invest: T-Invest (T-Bank)
           twelve_data: Twelve Data

@@ -182,6 +182,21 @@ pl:
       workplace_pension_uk:
         long: Emerytura pracownicza
         short: Emerytalne
+      ppk:
+        long: Pracownicze Plany Kapitałowe
+        short: PPK
+      ppe:
+        long: Pracowniczy Program Emerytalny
+        short: PPE
+      ike:
+        long: Indywidualne Konto Emerytalne
+        short: IKE
+      ikze:
+        long: Indywidualne Konto Zabezpieczenia Emerytalnego
+        short: IKZE
+      oipe:
+        long: Otwarte Indywidualne Konto Emerytalne Płatnicze
+        short: OIPE
     value_tooltip:
       cash: Gotówka
       holdings: Pozycje

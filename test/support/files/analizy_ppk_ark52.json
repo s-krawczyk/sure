@@ -1,0 +1,98 @@
+{
+  "id": "ARK52",
+  "label": "Erste PPK 2050",
+  "currency": "PLN",
+  "isRegular": true,
+  "isDividend": false,
+  "periods": [
+    {
+      "period": "1M",
+      "label": "1M",
+      "start": "2026-09-07",
+      "end": "2026-10-07"
+    },
+    {
+      "period": "3M",
+      "label": "3M",
+      "start": "2026-07-07",
+      "end": "2026-10-07"
+    },
+    {
+      "period": "12M",
+      "label": "12M",
+      "start": "2025-10-07",
+      "end": "2026-10-07"
+    },
+    {
+      "period": "36M",
+      "label": "36M",
+      "start": "2023-10-06",
+      "end": "2026-10-07"
+    },
+    {
+      "period": "60M",
+      "label": "60M",
+      "start": "2021-10-07",
+      "end": "2026-10-07"
+    },
+    {
+      "period": "120M",
+      "label": "120M",
+      "start": "2016-10-07",
+      "end": "2026-10-07"
+    },
+    {
+      "period": "YTD",
+      "label": "YTD",
+      "start": "2025-12-31",
+      "end": "2026-10-07"
+    },
+    {
+      "period": "MAX",
+      "label": "MAX",
+      "start": "2019-11-25",
+      "end": "2026-10-07"
+    }
+  ],
+  "events": [],
+  "dividends": [],
+  "series": [
+    {
+      "id": "fund_ARK52",
+      "label": "Fundusz",
+      "currency": "PLN",
+      "price": [
+        {
+          "date": "2019-11-25",
+          "value": 1000.02
+        },
+        {
+          "date": "2019-11-26",
+          "value": 1000.04
+        },
+        {
+          "date": "2019-11-27",
+          "value": 1000.06
+        },
+        {
+          "date": "2026-10-05",
+          "value": 2455.47
+        },
+        {
+          "date": "2026-10-06",
+          "value": 2481.87
+        },
+        {
+          "date": "2026-10-07",
+          "value": 2458.71
+        }
+      ]
+    },
+    {
+      "id": "fund_with_dividend_ARK52",
+      "label": "Fundusz z dywidendą",
+      "currency": "PLN",
+      "price": []
+    }
+  ]
+}

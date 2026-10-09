@@ -170,6 +170,22 @@ en:
       tax_free_bond:
         short: Tax-Free Bond
         long: Tax-Free Bond
+      # Poland
+      ppk:
+        short: PPK
+        long: Pracownicze Plany Kapitałowe
+      ppe:
+        short: PPE
+        long: Pracowniczy Program Emerytalny
+      ike:
+        short: IKE
+        long: Indywidualne Konto Emerytalne
+      ikze:
+        short: IKZE
+        long: Indywidualne Konto Zabezpieczenia Emerytalnego
+      oipe:
+        short: OIPE
+        long: Otwarte Indywidualne Konto Emerytalne Płatnicze
       # Generic
       pension:
         short: Pension

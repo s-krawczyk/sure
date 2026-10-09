@@ -188,6 +188,7 @@ en:
       au: Australia
       eu: Europe
       in: India
+      pl: Poland
       generic: General
     confirm_unlink:
       title: Unlink account from provider?
