@@ -1,0 +1,4424 @@
+{
+    "funds": [
+        {
+            "name": "ING Akcji",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-akcji",
+            "fund_id": 1,
+            "previous_name": "dawniej Goldman Sachs Akcji",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 3,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "02",
+                    "pricing_date": "08.10.2026",
+                    "value": "809,35",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,31%",
+                        "3M": "11,05%",
+                        "6M": "19,64%",
+                        "12M": "38,23%",
+                        "36M": "120,53%",
+                        "60M": "96,33%",
+                        "YTD": "30,66%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2B",
+                    "pricing_date": "08.10.2026",
+                    "value": "1240,81",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,26%",
+                        "3M": "11,22%",
+                        "6M": "20,01%",
+                        "12M": "39,08%",
+                        "36M": "124,64%",
+                        "60M": "103,45%",
+                        "YTD": "31,29%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3B",
+                    "pricing_date": "08.10.2026",
+                    "value": "1053,72",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,22%",
+                        "3M": "11,36%",
+                        "6M": "20,31%",
+                        "12M": "39,83%",
+                        "36M": "128,58%",
+                        "60M": "109,51%",
+                        "YTD": "31,81%"
+                    }
+                },
+                {
+                    "category_unit": "I",
+                    "afs": "4I",
+                    "pricing_date": "08.10.2026",
+                    "value": "812,51",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,31%",
+                        "3M": "11,05%",
+                        "6M": "19,64%",
+                        "12M": "38,23%",
+                        "36M": "120,53%",
+                        "60M": "97,07%",
+                        "YTD": "30,66%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1B",
+                    "pricing_date": "08.10.2026",
+                    "value": "866,23",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,28%",
+                        "3M": "11,13%",
+                        "6M": "19,82%",
+                        "12M": "38,64%",
+                        "36M": "122,52%",
+                        "60M": "99,34%",
+                        "YTD": "30,96%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5K",
+                    "pricing_date": "08.10.2026",
+                    "value": "943,67",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,18%",
+                        "3M": "11,49%",
+                        "6M": "20,59%",
+                        "12M": "40,38%",
+                        "36M": "130,86%",
+                        "60M": "112,87%",
+                        "YTD": "32,24%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "71",
+                    "pricing_date": "08.10.2026",
+                    "value": "1048,68",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,23%",
+                        "3M": "11,31%",
+                        "6M": "20,19%",
+                        "12M": "39,50%",
+                        "36M": "126,67%",
+                        "60M": "106,52%",
+                        "YTD": "31,59%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "C5",
+                    "pricing_date": "08.10.2026",
+                    "value": "850,92",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,21%",
+                        "3M": "11,40%",
+                        "6M": "20,40%",
+                        "12M": "39,98%",
+                        "36M": "129,03%",
+                        "YTD": "31,94%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "6Y",
+                    "pricing_date": "08.10.2026",
+                    "value": "922,91",
+                    "return": {
+                        "1D": "-0,65%",
+                        "1M": "-0,19%",
+                        "3M": "11,45%",
+                        "6M": "20,50%",
+                        "12M": "40,22%",
+                        "36M": "130,20%",
+                        "60M": "111,85%",
+                        "YTD": "32,11%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Akcji CEE",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-akcji-cee",
+            "fund_id": 5,
+            "previous_name": "dawniej Goldman Sachs Akcji CEE",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 0,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "6R",
+                    "pricing_date": "08.10.2026",
+                    "value": "938,65",
+                    "return": {
+                        "1D": "-1,05%",
+                        "1M": "-3,07%",
+                        "3M": "5,16%",
+                        "6M": "16,43%",
+                        "12M": "38,50%",
+                        "36M": "145,41%",
+                        "60M": "107,23%",
+                        "YTD": "27,35%"
+                    }
+                },
+                {
+                    "category_unit": "A2",
+                    "afs": "19",
+                    "pricing_date": "08.10.2026",
+                    "value": "976,22",
+                    "return": {
+                        "1D": "-1,05%",
+                        "1M": "-2,97%",
+                        "3M": "5,50%",
+                        "6M": "17,19%",
+                        "12M": "40,22%",
+                        "36M": "152,91%",
+                        "60M": "114,65%",
+                        "YTD": "28,59%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "8J",
+                    "pricing_date": "08.10.2026",
+                    "value": "947,49",
+                    "return": {
+                        "1D": "-1,05%",
+                        "1M": "-3,05%",
+                        "3M": "5,24%",
+                        "6M": "16,61%",
+                        "12M": "38,85%",
+                        "36M": "146,84%",
+                        "60M": "108,82%",
+                        "YTD": "27,61%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Akcji Polskich Plus",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-akcji-polskich-plus",
+            "fund_id": 17,
+            "previous_name": "dawniej Goldman Sachs Akcji Polskich Plus",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 3,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "30",
+                    "pricing_date": "08.10.2026",
+                    "value": "400,46",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,57%",
+                        "3M": "10,72%",
+                        "6M": "18,83%",
+                        "12M": "35,16%",
+                        "36M": "114,90%",
+                        "60M": "96,01%",
+                        "YTD": "29,32%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2L",
+                    "pricing_date": "08.10.2026",
+                    "value": "444,64",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,52%",
+                        "3M": "10,90%",
+                        "6M": "19,22%",
+                        "12M": "36,05%",
+                        "36M": "118,52%",
+                        "60M": "104,03%",
+                        "YTD": "29,98%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "6L",
+                    "pricing_date": "08.10.2026",
+                    "value": "490,82",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,47%",
+                        "3M": "11,08%",
+                        "6M": "19,59%",
+                        "12M": "36,88%",
+                        "36M": "122,51%",
+                        "60M": "110,26%",
+                        "YTD": "30,59%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1L",
+                    "pricing_date": "08.10.2026",
+                    "value": "428,92",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,55%",
+                        "3M": "10,81%",
+                        "6M": "19,01%",
+                        "12M": "35,57%",
+                        "36M": "116,94%",
+                        "60M": "99,08%",
+                        "YTD": "29,62%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "9Y",
+                    "pricing_date": "08.10.2026",
+                    "value": "405,79",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,57%",
+                        "3M": "10,72%",
+                        "6M": "18,83%",
+                        "12M": "35,16%",
+                        "36M": "114,93%",
+                        "60M": "97,08%",
+                        "YTD": "29,32%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5T",
+                    "pricing_date": "08.10.2026",
+                    "value": "450,20",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,44%",
+                        "3M": "11,16%",
+                        "6M": "19,78%",
+                        "12M": "37,30%",
+                        "36M": "124,53%",
+                        "60M": "113,45%",
+                        "YTD": "30,90%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "88",
+                    "pricing_date": "08.10.2026",
+                    "value": "405,10",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,49%",
+                        "3M": "10,99%",
+                        "6M": "19,40%",
+                        "12M": "36,42%",
+                        "YTD": "30,28%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "D2",
+                    "pricing_date": "08.10.2026",
+                    "value": "421,33",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,47%",
+                        "3M": "11,08%",
+                        "6M": "19,58%",
+                        "12M": "36,88%",
+                        "36M": "122,47%",
+                        "YTD": "30,59%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "6Z",
+                    "pricing_date": "08.10.2026",
+                    "value": "457,25",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,46%",
+                        "3M": "11,12%",
+                        "6M": "19,68%",
+                        "12M": "37,11%",
+                        "36M": "123,67%",
+                        "60M": "112,06%",
+                        "YTD": "30,76%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Globalnej Dywersyfikacji",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-mieszane/ing-globalnej-dywersyfikacji",
+            "fund_id": 1500091,
+            "previous_name": "dawniej Goldman Sachs Globalnej Dywersyfikacji",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 0,
+            "type_name": "mieszany",
+            "type_colour_hex": "#1E8700",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "9W",
+                    "pricing_date": "08.10.2026",
+                    "value": "148,20",
+                    "return": {
+                        "1D": "-0,32%",
+                        "1M": "-3,80%",
+                        "3M": "-1,06%",
+                        "6M": "3,11%",
+                        "12M": "9,83%",
+                        "36M": "48,20%",
+                        "60M": "32,23%",
+                        "YTD": "7,53%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "9T",
+                    "pricing_date": "08.10.2026",
+                    "value": "154,35",
+                    "return": {
+                        "1D": "-0,32%",
+                        "1M": "-3,74%",
+                        "3M": "-0,87%",
+                        "6M": "3,51%",
+                        "12M": "10,65%",
+                        "36M": "51,58%",
+                        "60M": "37,30%",
+                        "YTD": "8,16%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "C6",
+                    "pricing_date": "08.10.2026",
+                    "value": "155,60",
+                    "return": {
+                        "1D": "-0,32%",
+                        "1M": "-3,69%",
+                        "3M": "-0,75%",
+                        "6M": "3,77%",
+                        "12M": "11,21%",
+                        "36M": "53,91%",
+                        "YTD": "8,57%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Indeks Obligacji",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-obligacji/ing-indeks-obligacji",
+            "fund_id": 1500090,
+            "previous_name": "dawniej Goldman Sachs Indeks Obligacji",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 3,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 3,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "9X",
+                    "pricing_date": "08.10.2026",
+                    "value": "106,01",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,38%",
+                        "3M": "-2,15%",
+                        "6M": "-0,58%",
+                        "12M": "1,58%",
+                        "36M": "14,20%",
+                        "60M": "9,70%",
+                        "YTD": "-0,67%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "9U",
+                    "pricing_date": "08.10.2026",
+                    "value": "107,15",
+                    "return": {
+                        "1D": "0,04%",
+                        "1M": "-0,35%",
+                        "3M": "-2,10%",
+                        "6M": "-0,48%",
+                        "12M": "1,78%",
+                        "36M": "14,86%",
+                        "60M": "10,77%",
+                        "YTD": "-0,52%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "C7",
+                    "pricing_date": "08.10.2026",
+                    "value": "106,34",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,35%",
+                        "3M": "-2,07%",
+                        "6M": "-0,42%",
+                        "YTD": "-0,43%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Konserwatywny",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-krotkoterminowe-dluzne/ing-konserwatywny",
+            "fund_id": 8,
+            "previous_name": "dawniej Goldman Sachs Konserwatywny",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 3,
+            "type_name": "krótkoterminowy dłużny",
+            "type_colour_hex": "#185A7B",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 1,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "05",
+                    "pricing_date": "08.10.2026",
+                    "value": "346,28",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,20%",
+                        "3M": "0,53%",
+                        "6M": "1,55%",
+                        "12M": "3,57%",
+                        "36M": "16,17%",
+                        "60M": "26,51%",
+                        "YTD": "2,49%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2E",
+                    "pricing_date": "08.10.2026",
+                    "value": "354,94",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,23%",
+                        "3M": "0,64%",
+                        "6M": "1,76%",
+                        "12M": "3,99%",
+                        "36M": "17,49%",
+                        "60M": "28,42%",
+                        "YTD": "2,82%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3E",
+                    "pricing_date": "08.10.2026",
+                    "value": "362,13",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,22%",
+                        "3M": "0,61%",
+                        "6M": "1,71%",
+                        "12M": "3,93%",
+                        "36M": "17,41%",
+                        "60M": "28,34%",
+                        "YTD": "2,76%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1E",
+                    "pricing_date": "08.10.2026",
+                    "value": "351,37",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,21%",
+                        "3M": "0,57%",
+                        "6M": "1,63%",
+                        "12M": "3,73%",
+                        "36M": "16,58%",
+                        "60M": "27,00%",
+                        "YTD": "2,61%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5M",
+                    "pricing_date": "08.10.2026",
+                    "value": "354,48",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,23%",
+                        "3M": "0,64%",
+                        "6M": "1,76%",
+                        "12M": "4,00%",
+                        "36M": "17,49%",
+                        "60M": "28,42%",
+                        "YTD": "2,82%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "74",
+                    "pricing_date": "08.10.2026",
+                    "value": "356,68",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,23%",
+                        "3M": "0,64%",
+                        "6M": "1,76%",
+                        "12M": "3,99%",
+                        "36M": "17,49%",
+                        "60M": "28,42%",
+                        "YTD": "2,82%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "C8",
+                    "pricing_date": "08.10.2026",
+                    "value": "351,69",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,24%",
+                        "3M": "0,65%",
+                        "6M": "1,79%",
+                        "12M": "4,05%",
+                        "36M": "17,67%",
+                        "YTD": "2,86%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "6S",
+                    "pricing_date": "08.10.2026",
+                    "value": "351,63",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,23%",
+                        "3M": "0,62%",
+                        "6M": "1,72%",
+                        "12M": "3,91%",
+                        "36M": "17,18%",
+                        "60M": "27,82%",
+                        "YTD": "2,75%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Krótkoterminowy Obligacji",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-krotkoterminowe-dluzne/ing-krotkoterminowy-obligacji",
+            "fund_id": 15,
+            "previous_name": "dawniej Goldman Sachs Krótkoterminowy Obligacji",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 3,
+            "type_name": "krótkoterminowy dłużny",
+            "type_colour_hex": "#185A7B",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 2,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "32",
+                    "pricing_date": "08.10.2026",
+                    "value": "179,24",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,18%",
+                        "3M": "-0,38%",
+                        "6M": "1,14%",
+                        "12M": "2,43%",
+                        "36M": "17,33%",
+                        "60M": "26,56%",
+                        "YTD": "1,06%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "5E",
+                    "pricing_date": "08.10.2026",
+                    "value": "182,54",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,18%",
+                        "3M": "-0,36%",
+                        "6M": "1,18%",
+                        "12M": "2,59%",
+                        "36M": "18,06%",
+                        "60M": "28,15%",
+                        "YTD": "1,12%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3Y",
+                    "pricing_date": "08.10.2026",
+                    "value": "192,56",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,15%",
+                        "3M": "-0,27%",
+                        "6M": "1,36%",
+                        "12M": "2,98%",
+                        "36M": "19,60%",
+                        "60M": "30,99%",
+                        "YTD": "1,42%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1U",
+                    "pricing_date": "08.10.2026",
+                    "value": "184,36",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,17%",
+                        "3M": "-0,31%",
+                        "6M": "1,27%",
+                        "12M": "2,68%",
+                        "36M": "18,03%",
+                        "60M": "27,90%",
+                        "YTD": "1,27%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "A1",
+                    "pricing_date": "08.10.2026",
+                    "value": "179,19",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,18%",
+                        "3M": "-0,38%",
+                        "6M": "1,14%",
+                        "12M": "2,43%",
+                        "36M": "17,29%",
+                        "60M": "26,52%",
+                        "YTD": "1,06%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5S",
+                    "pricing_date": "08.10.2026",
+                    "value": "189,98",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,14%",
+                        "3M": "-0,23%",
+                        "6M": "1,45%",
+                        "12M": "3,14%",
+                        "36M": "20,02%",
+                        "60M": "31,71%",
+                        "YTD": "1,55%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "89",
+                    "pricing_date": "08.10.2026",
+                    "value": "184,45",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,17%",
+                        "3M": "-0,34%",
+                        "6M": "1,23%",
+                        "12M": "2,69%",
+                        "36M": "18,40%",
+                        "60M": "28,79%",
+                        "YTD": "1,20%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "C9",
+                    "pricing_date": "08.10.2026",
+                    "value": "184,96",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,14%",
+                        "3M": "-0,24%",
+                        "6M": "1,44%",
+                        "12M": "3,10%",
+                        "36M": "19,85%",
+                        "YTD": "1,51%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "6T",
+                    "pricing_date": "08.10.2026",
+                    "value": "188,20",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,14%",
+                        "3M": "-0,25%",
+                        "6M": "1,41%",
+                        "12M": "3,04%",
+                        "36M": "19,66%",
+                        "60M": "31,06%",
+                        "YTD": "1,47%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Obligacji",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-obligacji/ing-obligacji",
+            "fund_id": 3,
+            "previous_name": "dawniej Goldman Sachs Obligacji",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 4,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 3,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "04",
+                    "pricing_date": "08.10.2026",
+                    "value": "388,91",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,79%",
+                        "3M": "-3,46%",
+                        "6M": "-1,28%",
+                        "12M": "0,15%",
+                        "36M": "14,10%",
+                        "60M": "12,45%",
+                        "YTD": "-2,23%"
+                    }
+                },
+                {
+                    "category_unit": "A2",
+                    "afs": "F4",
+                    "pricing_date": "08.10.2026",
+                    "value": "398,31",
+                    "return": {
+                        "1D": "0,04%",
+                        "1M": "-0,73%",
+                        "3M": "-3,29%",
+                        "6M": "-0,94%",
+                        "12M": "0,86%",
+                        "36M": "16,61%",
+                        "YTD": "-1,70%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2D",
+                    "pricing_date": "08.10.2026",
+                    "value": "431,71",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,76%",
+                        "3M": "-3,38%",
+                        "6M": "-1,12%",
+                        "12M": "0,48%",
+                        "36M": "15,33%",
+                        "60M": "14,13%",
+                        "YTD": "-1,98%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3D",
+                    "pricing_date": "08.10.2026",
+                    "value": "432,50",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,73%",
+                        "3M": "-3,30%",
+                        "6M": "-0,94%",
+                        "12M": "0,88%",
+                        "36M": "16,84%",
+                        "60M": "16,66%",
+                        "YTD": "-1,69%"
+                    }
+                },
+                {
+                    "category_unit": "I",
+                    "afs": "4F",
+                    "pricing_date": "08.10.2026",
+                    "value": "390,40",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,79%",
+                        "3M": "-3,46%",
+                        "6M": "-1,28%",
+                        "12M": "0,15%",
+                        "36M": "14,18%",
+                        "60M": "12,23%",
+                        "YTD": "-2,23%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1D",
+                    "pricing_date": "08.10.2026",
+                    "value": "406,69",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,76%",
+                        "3M": "-3,36%",
+                        "6M": "-1,07%",
+                        "12M": "0,57%",
+                        "36M": "15,48%",
+                        "60M": "14,15%",
+                        "YTD": "-1,91%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "5R",
+                    "pricing_date": "08.10.2026",
+                    "value": "394,28",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,78%",
+                        "3M": "-3,43%",
+                        "6M": "-1,22%",
+                        "12M": "0,28%",
+                        "36M": "14,77%",
+                        "60M": "12,51%",
+                        "YTD": "-2,13%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5N",
+                    "pricing_date": "08.10.2026",
+                    "value": "418,90",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,72%",
+                        "3M": "-3,25%",
+                        "6M": "-0,84%",
+                        "12M": "1,04%",
+                        "36M": "17,26%",
+                        "60M": "17,32%",
+                        "YTD": "-1,55%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "73",
+                    "pricing_date": "08.10.2026",
+                    "value": "416,74",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,75%",
+                        "3M": "-3,36%",
+                        "6M": "-1,07%",
+                        "12M": "0,58%",
+                        "36M": "15,68%",
+                        "60M": "14,70%",
+                        "YTD": "-1,90%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "D1",
+                    "pricing_date": "08.10.2026",
+                    "value": "400,85",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,73%",
+                        "3M": "-3,29%",
+                        "6M": "-0,93%",
+                        "12M": "0,86%",
+                        "36M": "16,61%",
+                        "YTD": "-1,69%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "6U",
+                    "pricing_date": "08.10.2026",
+                    "value": "414,65",
+                    "return": {
+                        "1D": "0,04%",
+                        "1M": "-0,72%",
+                        "3M": "-3,26%",
+                        "6M": "-0,88%",
+                        "12M": "0,96%",
+                        "36M": "16,98%",
+                        "60M": "16,82%",
+                        "YTD": "-1,61%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Obligacji Uniwersalnych w EUR",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-obligacji/ing-obligacji-uniwersalnych-w-eur",
+            "fund_id": 1500127,
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 0,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "EUR",
+            "risk": 2,
+            "investment_period": 2,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "H1",
+                    "pricing_date": "08.10.2026",
+                    "value": "100,13",
+                    "return": {
+                        "1D": "0,00%",
+                        "1M": "0,12%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Obligacji Uniwersalnych w USD",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-obligacji/ing-obligacji-uniwersalnych-w-usd",
+            "fund_id": 1500128,
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 0,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "USD",
+            "risk": 2,
+            "investment_period": 2,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "H5",
+                    "pricing_date": "08.10.2026",
+                    "value": "100,20",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,08%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Średnich i Małych Spółek",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-srednich-i-malych-spolek",
+            "fund_id": 10,
+            "previous_name": "dawniej Goldman Sachs Średnich i Małych Spółek",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 3,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "12",
+                    "pricing_date": "08.10.2026",
+                    "value": "587,03",
+                    "return": {
+                        "1D": "-0,70%",
+                        "1M": "-1,31%",
+                        "3M": "5,55%",
+                        "6M": "16,33%",
+                        "12M": "21,93%",
+                        "36M": "99,74%",
+                        "60M": "92,78%",
+                        "YTD": "22,88%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "F8",
+                    "pricing_date": "08.10.2026",
+                    "value": "589,08",
+                    "return": {
+                        "1D": "-0,70%",
+                        "1M": "-1,29%",
+                        "3M": "5,63%",
+                        "6M": "16,50%",
+                        "12M": "22,30%",
+                        "YTD": "23,17%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "D4",
+                    "pricing_date": "08.10.2026",
+                    "value": "617,99",
+                    "return": {
+                        "1D": "-0,69%",
+                        "1M": "-1,21%",
+                        "3M": "5,88%",
+                        "6M": "17,07%",
+                        "12M": "23,48%",
+                        "36M": "107,44%",
+                        "YTD": "24,09%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "G6",
+                    "pricing_date": "08.10.2026",
+                    "value": "592,97",
+                    "return": {
+                        "1D": "-0,69%",
+                        "1M": "-1,19%",
+                        "3M": "5,93%",
+                        "6M": "17,30%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Stabilnego Wzrostu",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-mieszane/ing-stabilnego-wzrostu",
+            "fund_id": 4,
+            "previous_name": "dawniej Goldman Sachs Stabilnego Wzrostu",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 4,
+            "type_name": "mieszany",
+            "type_colour_hex": "#1E8700",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 3,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "01",
+                    "pricing_date": "08.10.2026",
+                    "value": "416,67",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,64%",
+                        "3M": "0,80%",
+                        "6M": "4,47%",
+                        "12M": "10,11%",
+                        "36M": "40,97%",
+                        "60M": "34,66%",
+                        "YTD": "6,91%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "86",
+                    "pricing_date": "08.10.2026",
+                    "value": "561,70",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,56%",
+                        "3M": "1,05%",
+                        "6M": "4,97%",
+                        "12M": "11,18%",
+                        "36M": "45,10%",
+                        "60M": "41,69%",
+                        "YTD": "7,71%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3A",
+                    "pricing_date": "08.10.2026",
+                    "value": "519,79",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,53%",
+                        "3M": "1,14%",
+                        "6M": "5,16%",
+                        "12M": "11,62%",
+                        "36M": "47,00%",
+                        "60M": "44,84%",
+                        "YTD": "8,03%"
+                    }
+                },
+                {
+                    "category_unit": "I",
+                    "afs": "4G",
+                    "pricing_date": "08.10.2026",
+                    "value": "418,54",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,64%",
+                        "3M": "0,80%",
+                        "6M": "4,47%",
+                        "12M": "10,11%",
+                        "36M": "40,97%",
+                        "60M": "34,91%",
+                        "YTD": "6,91%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1A",
+                    "pricing_date": "08.10.2026",
+                    "value": "448,96",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,59%",
+                        "3M": "0,93%",
+                        "6M": "4,73%",
+                        "12M": "10,67%",
+                        "36M": "43,10%",
+                        "60M": "37,96%",
+                        "YTD": "7,32%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5O",
+                    "pricing_date": "08.10.2026",
+                    "value": "481,22",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,50%",
+                        "3M": "1,22%",
+                        "6M": "5,31%",
+                        "12M": "11,90%",
+                        "36M": "47,96%",
+                        "60M": "46,37%",
+                        "YTD": "8,25%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "70",
+                    "pricing_date": "08.10.2026",
+                    "value": "534,54",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,55%",
+                        "3M": "1,09%",
+                        "6M": "5,05%",
+                        "12M": "11,34%",
+                        "36M": "45,75%",
+                        "60M": "42,75%",
+                        "YTD": "7,83%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "D3",
+                    "pricing_date": "08.10.2026",
+                    "value": "439,23",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,53%",
+                        "3M": "1,13%",
+                        "6M": "5,13%",
+                        "12M": "11,52%",
+                        "36M": "46,44%",
+                        "YTD": "7,96%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "6W",
+                    "pricing_date": "08.10.2026",
+                    "value": "473,47",
+                    "return": {
+                        "1D": "-0,23%",
+                        "1M": "-0,51%",
+                        "3M": "1,19%",
+                        "6M": "5,27%",
+                        "12M": "11,82%",
+                        "36M": "47,61%",
+                        "60M": "45,77%",
+                        "YTD": "8,18%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Zrównoważony",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-mieszane/ing-zrownowazony",
+            "fund_id": 2,
+            "previous_name": "dawniej Goldman Sachs Zrównoważony",
+            "umbrella_name": "ING Parasol FIO",
+            "umbrella_colour_hex": "#D40199",
+            "analizy_rating": 4,
+            "type_name": "mieszany",
+            "type_colour_hex": "#1E8700",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "03",
+                    "pricing_date": "08.10.2026",
+                    "value": "619,78",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,65%",
+                        "3M": "3,48%",
+                        "6M": "8,79%",
+                        "12M": "17,72%",
+                        "36M": "63,32%",
+                        "60M": "54,32%",
+                        "YTD": "13,35%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2C",
+                    "pricing_date": "08.10.2026",
+                    "value": "935,61",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,58%",
+                        "3M": "3,69%",
+                        "6M": "9,23%",
+                        "12M": "18,69%",
+                        "36M": "67,49%",
+                        "60M": "61,61%",
+                        "YTD": "14,07%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3C",
+                    "pricing_date": "08.10.2026",
+                    "value": "795,87",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,55%",
+                        "3M": "3,79%",
+                        "6M": "9,45%",
+                        "12M": "19,21%",
+                        "36M": "69,92%",
+                        "60M": "65,59%",
+                        "YTD": "14,44%"
+                    }
+                },
+                {
+                    "category_unit": "I",
+                    "afs": "4H",
+                    "pricing_date": "08.10.2026",
+                    "value": "624,87",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,65%",
+                        "3M": "3,48%",
+                        "6M": "8,79%",
+                        "12M": "17,72%",
+                        "36M": "63,42%",
+                        "60M": "54,92%",
+                        "YTD": "13,35%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1C",
+                    "pricing_date": "08.10.2026",
+                    "value": "668,40",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,61%",
+                        "3M": "3,58%",
+                        "6M": "9,00%",
+                        "12M": "18,19%",
+                        "36M": "65,16%",
+                        "60M": "57,16%",
+                        "YTD": "13,70%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5L",
+                    "pricing_date": "08.10.2026",
+                    "value": "724,77",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,52%",
+                        "3M": "3,90%",
+                        "6M": "9,67%",
+                        "12M": "19,61%",
+                        "36M": "71,35%",
+                        "60M": "67,82%",
+                        "YTD": "14,76%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "72",
+                    "pricing_date": "08.10.2026",
+                    "value": "788,19",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,56%",
+                        "3M": "3,74%",
+                        "6M": "9,34%",
+                        "12M": "18,93%",
+                        "36M": "68,50%",
+                        "60M": "63,23%",
+                        "YTD": "14,25%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "D5",
+                    "pricing_date": "08.10.2026",
+                    "value": "653,71",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,54%",
+                        "3M": "3,81%",
+                        "6M": "9,48%",
+                        "12M": "19,31%",
+                        "36M": "69,81%",
+                        "YTD": "14,46%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "6X",
+                    "pricing_date": "08.10.2026",
+                    "value": "710,51",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,53%",
+                        "3M": "3,87%",
+                        "6M": "9,60%",
+                        "12M": "19,49%",
+                        "36M": "70,86%",
+                        "60M": "66,98%",
+                        "YTD": "14,66%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Akcji Europejskich",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-akcji-europejskich",
+            "fund_id": 20,
+            "previous_name": "dawniej Goldman Sachs Europejski Spółek Dywidendowych",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 4,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "52",
+                    "pricing_date": "08.10.2026",
+                    "value": "329,69",
+                    "return": {
+                        "1D": "-0,41%",
+                        "1M": "-3,99%",
+                        "3M": "-2,26%",
+                        "6M": "2,70%",
+                        "12M": "13,28%",
+                        "36M": "49,57%",
+                        "60M": "68,09%",
+                        "YTD": "8,09%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2R",
+                    "pricing_date": "08.10.2026",
+                    "value": "362,65",
+                    "return": {
+                        "1D": "-0,41%",
+                        "1M": "-3,93%",
+                        "3M": "-2,08%",
+                        "6M": "3,08%",
+                        "12M": "14,18%",
+                        "36M": "53,75%",
+                        "60M": "76,37%",
+                        "YTD": "8,71%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3R",
+                    "pricing_date": "08.10.2026",
+                    "value": "396,20",
+                    "return": {
+                        "1D": "-0,41%",
+                        "1M": "-3,91%",
+                        "3M": "-2,01%",
+                        "6M": "3,24%",
+                        "12M": "14,56%",
+                        "36M": "55,51%",
+                        "60M": "79,83%",
+                        "YTD": "8,98%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1R",
+                    "pricing_date": "08.10.2026",
+                    "value": "352,15",
+                    "return": {
+                        "1D": "-0,41%",
+                        "1M": "-3,98%",
+                        "3M": "-2,22%",
+                        "6M": "2,81%",
+                        "12M": "13,56%",
+                        "36M": "51,15%",
+                        "60M": "71,16%",
+                        "YTD": "8,25%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5X",
+                    "pricing_date": "08.10.2026",
+                    "value": "372,46",
+                    "return": {
+                        "1D": "-0,41%",
+                        "1M": "-3,88%",
+                        "3M": "-1,92%",
+                        "6M": "3,42%",
+                        "12M": "14,89%",
+                        "36M": "56,59%",
+                        "60M": "81,79%",
+                        "YTD": "9,25%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "5C",
+                    "pricing_date": "08.10.2026",
+                    "value": "393,77",
+                    "return": {
+                        "1D": "-0,41%",
+                        "1M": "-3,93%",
+                        "3M": "-2,06%",
+                        "6M": "3,14%",
+                        "12M": "14,29%",
+                        "36M": "54,21%",
+                        "60M": "77,26%",
+                        "YTD": "8,80%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7M",
+                    "pricing_date": "08.10.2026",
+                    "value": "369,62",
+                    "return": {
+                        "1D": "-0,41%",
+                        "1M": "-3,89%",
+                        "3M": "-1,97%",
+                        "6M": "3,34%",
+                        "12M": "14,74%",
+                        "36M": "55,98%",
+                        "60M": "80,55%",
+                        "YTD": "9,12%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Akcji Japońskich",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-akcji-japonskich",
+            "fund_id": 27,
+            "previous_name": "dawniej Goldman Sachs Japonia",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 4,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "58",
+                    "pricing_date": "08.10.2026",
+                    "value": "565,05",
+                    "return": {
+                        "1D": "-0,54%",
+                        "1M": "2,87%",
+                        "3M": "1,18%",
+                        "6M": "8,08%",
+                        "12M": "23,69%",
+                        "36M": "90,48%",
+                        "60M": "153,08%",
+                        "YTD": "18,76%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2T",
+                    "pricing_date": "08.10.2026",
+                    "value": "637,10",
+                    "return": {
+                        "1D": "-0,53%",
+                        "1M": "2,93%",
+                        "3M": "1,37%",
+                        "6M": "8,47%",
+                        "12M": "24,66%",
+                        "36M": "95,62%",
+                        "60M": "165,29%",
+                        "YTD": "19,43%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3T",
+                    "pricing_date": "08.10.2026",
+                    "value": "678,30",
+                    "return": {
+                        "1D": "-0,53%",
+                        "1M": "2,96%",
+                        "3M": "1,44%",
+                        "6M": "8,63%",
+                        "12M": "25,08%",
+                        "36M": "97,86%",
+                        "60M": "170,48%",
+                        "YTD": "19,72%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1T",
+                    "pricing_date": "08.10.2026",
+                    "value": "603,42",
+                    "return": {
+                        "1D": "-0,53%",
+                        "1M": "2,89%",
+                        "3M": "1,23%",
+                        "6M": "8,19%",
+                        "12M": "24,00%",
+                        "36M": "92,48%",
+                        "60M": "157,67%",
+                        "YTD": "18,94%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5Y",
+                    "pricing_date": "08.10.2026",
+                    "value": "618,29",
+                    "return": {
+                        "1D": "-0,53%",
+                        "1M": "2,99%",
+                        "3M": "1,53%",
+                        "6M": "8,82%",
+                        "12M": "25,43%",
+                        "36M": "99,22%",
+                        "60M": "173,43%",
+                        "YTD": "20,01%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "96",
+                    "pricing_date": "08.10.2026",
+                    "value": "672,69",
+                    "return": {
+                        "1D": "-0,53%",
+                        "1M": "2,94%",
+                        "3M": "1,39%",
+                        "6M": "8,53%",
+                        "12M": "24,78%",
+                        "36M": "96,21%",
+                        "60M": "166,61%",
+                        "YTD": "19,52%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7O",
+                    "pricing_date": "08.10.2026",
+                    "value": "630,41",
+                    "return": {
+                        "1D": "-0,53%",
+                        "1M": "2,97%",
+                        "3M": "1,49%",
+                        "6M": "8,74%",
+                        "12M": "25,27%",
+                        "36M": "98,52%",
+                        "60M": "171,68%",
+                        "YTD": "19,88%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Akcji Rynków Wschodzących",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-akcji-rynkow-wschodzacych",
+            "fund_id": 22,
+            "previous_name": "dawniej Goldman Sachs Spółek Dywidendowych Rynków Wschodzących",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "60",
+                    "pricing_date": "08.10.2026",
+                    "value": "235,57",
+                    "return": {
+                        "1D": "-0,83%",
+                        "1M": "0,82%",
+                        "3M": "4,21%",
+                        "6M": "14,76%",
+                        "12M": "37,61%",
+                        "36M": "93,28%",
+                        "60M": "75,28%",
+                        "YTD": "32,94%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2S",
+                    "pricing_date": "08.10.2026",
+                    "value": "284,55",
+                    "return": {
+                        "1D": "-0,82%",
+                        "1M": "0,88%",
+                        "3M": "4,41%",
+                        "6M": "15,20%",
+                        "12M": "38,76%",
+                        "36M": "99,01%",
+                        "60M": "84,40%",
+                        "YTD": "33,74%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3S",
+                    "pricing_date": "08.10.2026",
+                    "value": "283,82",
+                    "return": {
+                        "1D": "-0,82%",
+                        "1M": "0,90%",
+                        "3M": "4,48%",
+                        "6M": "15,36%",
+                        "12M": "39,22%",
+                        "36M": "101,28%",
+                        "60M": "88,00%",
+                        "YTD": "34,07%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1S",
+                    "pricing_date": "08.10.2026",
+                    "value": "251,70",
+                    "return": {
+                        "1D": "-0,82%",
+                        "1M": "0,83%",
+                        "3M": "4,26%",
+                        "6M": "14,87%",
+                        "12M": "37,95%",
+                        "36M": "95,31%",
+                        "60M": "78,54%",
+                        "YTD": "33,15%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6A",
+                    "pricing_date": "08.10.2026",
+                    "value": "269,30",
+                    "return": {
+                        "1D": "-0,82%",
+                        "1M": "0,93%",
+                        "3M": "4,57%",
+                        "6M": "15,56%",
+                        "12M": "39,61%",
+                        "36M": "102,66%",
+                        "60M": "89,81%",
+                        "YTD": "34,39%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "77",
+                    "pricing_date": "08.10.2026",
+                    "value": "285,20",
+                    "return": {
+                        "1D": "-0,82%",
+                        "1M": "0,89%",
+                        "3M": "4,43%",
+                        "6M": "15,26%",
+                        "12M": "38,89%",
+                        "36M": "99,62%",
+                        "60M": "85,33%",
+                        "YTD": "33,85%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7N",
+                    "pricing_date": "08.10.2026",
+                    "value": "264,09",
+                    "return": {
+                        "1D": "-0,82%",
+                        "1M": "0,92%",
+                        "3M": "4,54%",
+                        "6M": "15,48%",
+                        "12M": "39,42%",
+                        "36M": "101,75%",
+                        "60M": "88,46%",
+                        "YTD": "34,24%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Akcji USA",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-akcji-usa",
+            "fund_id": 19,
+            "previous_name": "dawniej Goldman Sachs Globalny Spółek Dywidendowych USA",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "51",
+                    "pricing_date": "08.10.2026",
+                    "value": "424,48",
+                    "return": {
+                        "1D": "-0,07%",
+                        "1M": "0,56%",
+                        "3M": "-0,50%",
+                        "6M": "8,84%",
+                        "12M": "6,69%",
+                        "36M": "49,14%",
+                        "60M": "67,10%",
+                        "YTD": "7,05%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2P",
+                    "pricing_date": "08.10.2026",
+                    "value": "478,04",
+                    "return": {
+                        "1D": "-0,06%",
+                        "1M": "0,62%",
+                        "3M": "-0,31%",
+                        "6M": "9,24%",
+                        "12M": "7,53%",
+                        "36M": "53,20%",
+                        "60M": "75,13%",
+                        "YTD": "7,66%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3P",
+                    "pricing_date": "08.10.2026",
+                    "value": "509,35",
+                    "return": {
+                        "1D": "-0,06%",
+                        "1M": "0,65%",
+                        "3M": "-0,24%",
+                        "6M": "9,40%",
+                        "12M": "7,89%",
+                        "36M": "54,95%",
+                        "60M": "78,56%",
+                        "YTD": "7,93%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1P",
+                    "pricing_date": "08.10.2026",
+                    "value": "453,49",
+                    "return": {
+                        "1D": "-0,07%",
+                        "1M": "0,58%",
+                        "3M": "-0,45%",
+                        "6M": "8,94%",
+                        "12M": "6,96%",
+                        "36M": "50,71%",
+                        "60M": "70,20%",
+                        "YTD": "7,22%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5W",
+                    "pricing_date": "08.10.2026",
+                    "value": "479,29",
+                    "return": {
+                        "1D": "-0,06%",
+                        "1M": "0,68%",
+                        "3M": "-0,15%",
+                        "6M": "9,59%",
+                        "12M": "8,20%",
+                        "36M": "56,02%",
+                        "60M": "80,51%",
+                        "YTD": "8,19%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "98",
+                    "pricing_date": "08.10.2026",
+                    "value": "506,41",
+                    "return": {
+                        "1D": "-0,07%",
+                        "1M": "0,63%",
+                        "3M": "-0,29%",
+                        "6M": "9,29%",
+                        "12M": "7,64%",
+                        "36M": "53,66%",
+                        "60M": "76,01%",
+                        "YTD": "7,75%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7L",
+                    "pricing_date": "08.10.2026",
+                    "value": "475,01",
+                    "return": {
+                        "1D": "-0,06%",
+                        "1M": "0,66%",
+                        "3M": "-0,19%",
+                        "6M": "9,51%",
+                        "12M": "8,06%",
+                        "36M": "55,46%",
+                        "60M": "79,37%",
+                        "YTD": "8,07%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Globalny Akcji Dywidendowych",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-globalny-akcji-dywidendowych",
+            "fund_id": 18,
+            "previous_name": "dawniej Goldman Sachs Globalny Spółek Dywidendowych",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 4,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "50",
+                    "pricing_date": "08.10.2026",
+                    "value": "502,99",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "0,17%",
+                        "3M": "1,50%",
+                        "6M": "8,10%",
+                        "12M": "15,44%",
+                        "36M": "50,60%",
+                        "60M": "76,85%",
+                        "YTD": "13,25%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2O",
+                    "pricing_date": "08.10.2026",
+                    "value": "604,03",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "0,23%",
+                        "3M": "1,68%",
+                        "6M": "8,49%",
+                        "12M": "16,31%",
+                        "36M": "54,53%",
+                        "60M": "84,96%",
+                        "YTD": "13,87%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3O",
+                    "pricing_date": "08.10.2026",
+                    "value": "602,45",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "0,25%",
+                        "3M": "1,76%",
+                        "6M": "8,65%",
+                        "12M": "16,71%",
+                        "36M": "56,31%",
+                        "60M": "88,58%",
+                        "YTD": "14,15%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1O",
+                    "pricing_date": "08.10.2026",
+                    "value": "536,81",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "0,18%",
+                        "3M": "1,55%",
+                        "6M": "8,21%",
+                        "12M": "15,72%",
+                        "36M": "52,19%",
+                        "60M": "79,96%",
+                        "YTD": "13,42%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "G9",
+                    "pricing_date": "08.10.2026",
+                    "value": "503,22",
+                    "return": {
+                        "1D": "-0,30%",
+                        "1M": "0,17%",
+                        "3M": "1,50%",
+                        "6M": "8,10%",
+                        "12M": "15,47%",
+                        "YTD": "13,25%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5U",
+                    "pricing_date": "08.10.2026",
+                    "value": "572,36",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "0,28%",
+                        "3M": "1,85%",
+                        "6M": "8,84%",
+                        "12M": "17,04%",
+                        "36M": "57,38%",
+                        "60M": "90,65%",
+                        "YTD": "14,43%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "75",
+                    "pricing_date": "08.10.2026",
+                    "value": "605,35",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "0,24%",
+                        "3M": "1,71%",
+                        "6M": "8,54%",
+                        "12M": "16,43%",
+                        "36M": "55,00%",
+                        "60M": "85,89%",
+                        "YTD": "13,96%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7K",
+                    "pricing_date": "08.10.2026",
+                    "value": "563,30",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "0,27%",
+                        "3M": "1,81%",
+                        "6M": "8,76%",
+                        "12M": "16,90%",
+                        "36M": "56,88%",
+                        "60M": "89,63%",
+                        "YTD": "14,32%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Globalny Akcji Odpowiedzialnego Inwestowania",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-akcji/ing-globalny-akcji-odpowiedzialnego-inwestowania",
+            "fund_id": 28,
+            "previous_name": "dawniej Goldman Sachs Globalny Odpowiedzialnego Inwestowania",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "akcji",
+            "type_colour_hex": "#89D6FD",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "61",
+                    "pricing_date": "08.10.2026",
+                    "value": "92,79",
+                    "return": {
+                        "1D": "-0,74%",
+                        "1M": "3,20%",
+                        "3M": "2,94%",
+                        "6M": "7,36%",
+                        "12M": "2,44%",
+                        "36M": "19,96%",
+                        "60M": "-1,36%",
+                        "YTD": "5,17%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2U",
+                    "pricing_date": "08.10.2026",
+                    "value": "105,93",
+                    "return": {
+                        "1D": "-0,74%",
+                        "1M": "3,27%",
+                        "3M": "3,16%",
+                        "6M": "7,81%",
+                        "12M": "3,36%",
+                        "36M": "23,46%",
+                        "60M": "3,54%",
+                        "YTD": "5,86%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3U",
+                    "pricing_date": "08.10.2026",
+                    "value": "111,44",
+                    "return": {
+                        "1D": "-0,74%",
+                        "1M": "3,29%",
+                        "3M": "3,22%",
+                        "6M": "7,94%",
+                        "12M": "3,68%",
+                        "36M": "24,85%",
+                        "60M": "5,54%",
+                        "YTD": "6,09%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "8C",
+                    "pricing_date": "08.10.2026",
+                    "value": "95,84",
+                    "return": {
+                        "1D": "-0,74%",
+                        "1M": "3,22%",
+                        "3M": "2,99%",
+                        "6M": "7,47%",
+                        "12M": "2,69%",
+                        "36M": "21,22%",
+                        "60M": "0,48%",
+                        "YTD": "5,33%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6B",
+                    "pricing_date": "08.10.2026",
+                    "value": "103,34",
+                    "return": {
+                        "1D": "-0,74%",
+                        "1M": "3,32%",
+                        "3M": "3,31%",
+                        "6M": "8,13%",
+                        "12M": "3,97%",
+                        "36M": "25,70%",
+                        "60M": "6,69%",
+                        "YTD": "6,35%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "5A",
+                    "pricing_date": "08.10.2026",
+                    "value": "110,97",
+                    "return": {
+                        "1D": "-0,73%",
+                        "1M": "3,29%",
+                        "3M": "3,18%",
+                        "6M": "7,87%",
+                        "12M": "3,46%",
+                        "36M": "23,85%",
+                        "60M": "4,06%",
+                        "YTD": "5,95%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7H",
+                    "pricing_date": "08.10.2026",
+                    "value": "103,14",
+                    "return": {
+                        "1D": "-0,73%",
+                        "1M": "3,32%",
+                        "3M": "3,27%",
+                        "6M": "8,06%",
+                        "12M": "3,83%",
+                        "36M": "25,22%",
+                        "60M": "6,00%",
+                        "YTD": "6,23%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Globalny Obligacji Wysokodochodowych",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-obligacji/ing-globalny-obligacji-wysokodochodowych",
+            "fund_id": 24,
+            "previous_name": "dawniej Goldman Sachs Globalny Długu Korporacyjnego",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 3,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 4,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "63",
+                    "pricing_date": "08.10.2026",
+                    "value": "228,38",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-2,16%",
+                        "3M": "-2,05%",
+                        "6M": "-1,09%",
+                        "12M": "0,16%",
+                        "36M": "20,59%",
+                        "60M": "14,65%",
+                        "YTD": "-0,67%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2M",
+                    "pricing_date": "08.10.2026",
+                    "value": "258,74",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-2,09%",
+                        "3M": "-1,85%",
+                        "6M": "-0,69%",
+                        "12M": "0,97%",
+                        "36M": "23,53%",
+                        "60M": "19,32%",
+                        "YTD": "-0,05%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3M",
+                    "pricing_date": "08.10.2026",
+                    "value": "266,89",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-2,07%",
+                        "3M": "-1,78%",
+                        "6M": "-0,55%",
+                        "12M": "1,31%",
+                        "36M": "24,94%",
+                        "60M": "21,65%",
+                        "YTD": "0,20%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1M",
+                    "pricing_date": "08.10.2026",
+                    "value": "243,11",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-2,11%",
+                        "3M": "-1,92%",
+                        "6M": "-0,82%",
+                        "12M": "0,73%",
+                        "36M": "22,63%",
+                        "60M": "17,76%",
+                        "YTD": "-0,23%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6C",
+                    "pricing_date": "08.10.2026",
+                    "value": "251,10",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-2,05%",
+                        "3M": "-1,72%",
+                        "6M": "-0,42%",
+                        "12M": "1,45%",
+                        "36M": "25,12%",
+                        "60M": "21,83%",
+                        "YTD": "0,34%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "78",
+                    "pricing_date": "08.10.2026",
+                    "value": "260,58",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-2,09%",
+                        "3M": "-1,83%",
+                        "6M": "-0,64%",
+                        "12M": "1,07%",
+                        "36M": "23,90%",
+                        "60M": "19,92%",
+                        "YTD": "0,03%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7J",
+                    "pricing_date": "08.10.2026",
+                    "value": "249,16",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-2,06%",
+                        "3M": "-1,77%",
+                        "6M": "-0,51%",
+                        "12M": "1,34%",
+                        "36M": "24,90%",
+                        "60M": "21,52%",
+                        "YTD": "0,23%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Konserwatywny Plus",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-krotkoterminowe-dluzne/ing-konserwatywny-plus",
+            "fund_id": 30,
+            "previous_name": "dawniej Goldman Sachs Konserwatywny Plus",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 3,
+            "type_name": "krótkoterminowy dłużny",
+            "type_colour_hex": "#185A7B",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 1,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "68",
+                    "pricing_date": "08.10.2026",
+                    "value": "148,73",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,23%",
+                        "3M": "0,70%",
+                        "6M": "1,56%",
+                        "12M": "3,54%",
+                        "36M": "15,43%",
+                        "60M": "24,37%",
+                        "YTD": "2,52%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "4C",
+                    "pricing_date": "08.10.2026",
+                    "value": "154,39",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "0,24%",
+                        "3M": "0,76%",
+                        "6M": "1,69%",
+                        "12M": "3,84%",
+                        "36M": "16,63%",
+                        "60M": "26,36%",
+                        "YTD": "2,73%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6E",
+                    "pricing_date": "08.10.2026",
+                    "value": "149,89",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "0,25%",
+                        "3M": "0,79%",
+                        "6M": "1,74%",
+                        "12M": "3,90%",
+                        "YTD": "2,79%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7R",
+                    "pricing_date": "08.10.2026",
+                    "value": "150,71",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "0,25%",
+                        "3M": "0,76%",
+                        "6M": "1,69%",
+                        "12M": "3,79%",
+                        "36M": "16,29%",
+                        "60M": "25,61%",
+                        "YTD": "2,71%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Obligacji Korporacyjnych",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-obligacji/ing-obligacji-korporacyjnych",
+            "fund_id": 1500040,
+            "previous_name": "dawniej Goldman Sachs Obligacji Korporacyjnych",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 3,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "E7",
+                    "pricing_date": "08.10.2026",
+                    "value": "562,73",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,23%",
+                        "3M": "-0,21%",
+                        "6M": "1,32%",
+                        "12M": "3,04%",
+                        "36M": "19,91%",
+                        "YTD": "1,77%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "F7",
+                    "pricing_date": "08.10.2026",
+                    "value": "564,71",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,21%",
+                        "3M": "-0,15%",
+                        "6M": "1,44%",
+                        "12M": "3,27%",
+                        "YTD": "1,96%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "G7",
+                    "pricing_date": "08.10.2026",
+                    "value": "563,13",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,23%",
+                        "3M": "-0,20%",
+                        "6M": "1,34%",
+                        "12M": "3,07%",
+                        "YTD": "1,80%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "F2",
+                    "pricing_date": "08.10.2026",
+                    "value": "574,09",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,18%",
+                        "3M": "-0,04%",
+                        "6M": "1,66%",
+                        "12M": "3,70%",
+                        "YTD": "2,29%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "G5",
+                    "pricing_date": "08.10.2026",
+                    "value": "563,33",
+                    "return": {
+                        "1D": "0,02%",
+                        "1M": "-0,14%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Obligacji Plus",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-krotkoterminowe-dluzne/ing-obligacji-plus",
+            "fund_id": 1500004,
+            "previous_name": "dawniej Goldman Sachs Obligacji Plus",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 3,
+            "type_name": "krótkoterminowy dłużny",
+            "type_colour_hex": "#185A7B",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 2,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "40",
+                    "pricing_date": "08.10.2026",
+                    "value": "140,74",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,30%",
+                        "3M": "-0,66%",
+                        "6M": "0,92%",
+                        "12M": "2,39%",
+                        "36M": "17,30%",
+                        "60M": "25,62%",
+                        "YTD": "0,94%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "4E",
+                    "pricing_date": "08.10.2026",
+                    "value": "143,33",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,31%",
+                        "3M": "-0,66%",
+                        "6M": "0,90%",
+                        "12M": "2,48%",
+                        "36M": "17,78%",
+                        "60M": "26,85%",
+                        "YTD": "0,92%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "4A",
+                    "pricing_date": "08.10.2026",
+                    "value": "148,72",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,28%",
+                        "3M": "-0,57%",
+                        "6M": "1,07%",
+                        "12M": "2,88%",
+                        "36M": "19,31%",
+                        "60M": "29,65%",
+                        "YTD": "1,20%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1X",
+                    "pricing_date": "08.10.2026",
+                    "value": "143,07",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,29%",
+                        "3M": "-0,61%",
+                        "6M": "1,00%",
+                        "12M": "2,54%",
+                        "36M": "17,81%",
+                        "60M": "26,49%",
+                        "YTD": "1,06%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "7U",
+                    "pricing_date": "08.10.2026",
+                    "value": "141,75",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,31%",
+                        "3M": "-0,65%",
+                        "6M": "0,92%",
+                        "12M": "2,38%",
+                        "36M": "17,34%",
+                        "60M": "25,74%",
+                        "YTD": "0,94%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6G",
+                    "pricing_date": "08.10.2026",
+                    "value": "148,62",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,27%",
+                        "3M": "-0,53%",
+                        "6M": "1,17%",
+                        "12M": "3,04%",
+                        "36M": "19,74%",
+                        "60M": "30,41%",
+                        "YTD": "1,34%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "B8",
+                    "pricing_date": "08.10.2026",
+                    "value": "145,00",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,27%",
+                        "3M": "-0,54%",
+                        "6M": "1,15%",
+                        "12M": "3,00%",
+                        "36M": "19,58%",
+                        "YTD": "1,31%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7S",
+                    "pricing_date": "08.10.2026",
+                    "value": "146,96",
+                    "return": {
+                        "1D": "0,01%",
+                        "1M": "-0,27%",
+                        "3M": "-0,55%",
+                        "6M": "1,12%",
+                        "12M": "2,93%",
+                        "36M": "19,38%",
+                        "60M": "29,72%",
+                        "YTD": "1,26%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Obligacji Rynków Wschodzących (Waluta Lokalna)",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-obligacji/ing-obligacji-rynkow-wschodzacych",
+            "fund_id": 29,
+            "previous_name": "dawniej Goldman Sachs Obligacji Rynków Wschodzących (Waluta Lokalna)",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 4,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "69",
+                    "pricing_date": "08.10.2026",
+                    "value": "93,57",
+                    "return": {
+                        "1D": "0,17%",
+                        "1M": "-2,56%",
+                        "3M": "-0,64%",
+                        "6M": "-0,81%",
+                        "12M": "2,03%",
+                        "36M": "23,10%",
+                        "60M": "9,98%",
+                        "YTD": "-0,62%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2N",
+                    "pricing_date": "08.10.2026",
+                    "value": "103,76",
+                    "return": {
+                        "1D": "0,16%",
+                        "1M": "-2,50%",
+                        "3M": "-0,44%",
+                        "6M": "-0,41%",
+                        "12M": "2,84%",
+                        "36M": "26,09%",
+                        "60M": "14,46%",
+                        "YTD": "0,00%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3N",
+                    "pricing_date": "08.10.2026",
+                    "value": "107,78",
+                    "return": {
+                        "1D": "0,17%",
+                        "1M": "-2,47%",
+                        "3M": "-0,38%",
+                        "6M": "-0,28%",
+                        "12M": "3,19%",
+                        "36M": "27,52%",
+                        "60M": "16,71%",
+                        "YTD": "0,23%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1N",
+                    "pricing_date": "08.10.2026",
+                    "value": "99,31",
+                    "return": {
+                        "1D": "0,16%",
+                        "1M": "-2,52%",
+                        "3M": "-0,52%",
+                        "6M": "-0,57%",
+                        "12M": "2,52%",
+                        "36M": "24,89%",
+                        "60M": "12,62%",
+                        "YTD": "-0,25%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6F",
+                    "pricing_date": "08.10.2026",
+                    "value": "102,16",
+                    "return": {
+                        "1D": "0,17%",
+                        "1M": "-2,46%",
+                        "3M": "-0,33%",
+                        "6M": "-0,18%",
+                        "12M": "3,30%",
+                        "36M": "27,67%",
+                        "60M": "16,83%",
+                        "YTD": "0,34%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "97",
+                    "pricing_date": "08.10.2026",
+                    "value": "105,23",
+                    "return": {
+                        "1D": "0,16%",
+                        "1M": "-2,48%",
+                        "3M": "-0,42%",
+                        "6M": "-0,36%",
+                        "12M": "2,95%",
+                        "36M": "26,48%",
+                        "60M": "15,11%",
+                        "YTD": "0,08%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7P",
+                    "pricing_date": "08.10.2026",
+                    "value": "101,39",
+                    "return": {
+                        "1D": "0,17%",
+                        "1M": "-2,47%",
+                        "3M": "-0,37%",
+                        "6M": "-0,27%",
+                        "12M": "3,15%",
+                        "36M": "27,10%",
+                        "60M": "15,93%",
+                        "YTD": "0,23%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Stabilny Globalnej Dywersyfikacji",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-mieszane/ing-stabilny-globalnej-dywersyfikacji",
+            "fund_id": 1500037,
+            "previous_name": "dawniej Goldman Sachs Stabilny Globalnej Dywersyfikacji",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "mieszany",
+            "type_colour_hex": "#1E8700",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 3,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "41",
+                    "pricing_date": "08.10.2026",
+                    "value": "160,64",
+                    "return": {
+                        "1D": "-0,17%",
+                        "1M": "-1,56%",
+                        "3M": "-0,27%",
+                        "6M": "2,32%",
+                        "12M": "4,79%",
+                        "36M": "26,60%",
+                        "60M": "25,52%",
+                        "YTD": "3,21%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "5F",
+                    "pricing_date": "08.10.2026",
+                    "value": "169,80",
+                    "return": {
+                        "1D": "-0,16%",
+                        "1M": "-1,65%",
+                        "3M": "-0,17%",
+                        "6M": "2,59%",
+                        "12M": "5,40%",
+                        "36M": "28,71%",
+                        "60M": "28,90%",
+                        "YTD": "3,64%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3L",
+                    "pricing_date": "08.10.2026",
+                    "value": "178,82",
+                    "return": {
+                        "1D": "-0,17%",
+                        "1M": "-1,63%",
+                        "3M": "-0,10%",
+                        "6M": "2,74%",
+                        "12M": "5,75%",
+                        "36M": "30,19%",
+                        "60M": "31,42%",
+                        "YTD": "3,89%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1W",
+                    "pricing_date": "08.10.2026",
+                    "value": "167,02",
+                    "return": {
+                        "1D": "-0,17%",
+                        "1M": "-1,51%",
+                        "3M": "-0,18%",
+                        "6M": "2,50%",
+                        "12M": "5,14%",
+                        "36M": "27,56%",
+                        "60M": "27,34%",
+                        "YTD": "3,50%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "E9",
+                    "pricing_date": "08.10.2026",
+                    "value": "160,09",
+                    "return": {
+                        "1D": "-0,17%",
+                        "1M": "-1,62%",
+                        "3M": "-0,30%",
+                        "6M": "2,29%",
+                        "12M": "4,75%",
+                        "36M": "26,40%",
+                        "60M": "33,71%",
+                        "YTD": "3,16%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6H",
+                    "pricing_date": "08.10.2026",
+                    "value": "172,70",
+                    "return": {
+                        "1D": "-0,17%",
+                        "1M": "-1,62%",
+                        "3M": "-0,05%",
+                        "6M": "2,84%",
+                        "12M": "5,87%",
+                        "36M": "30,34%",
+                        "60M": "31,57%",
+                        "YTD": "4,01%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "87",
+                    "pricing_date": "08.10.2026",
+                    "value": "172,45",
+                    "return": {
+                        "1D": "-0,17%",
+                        "1M": "-1,64%",
+                        "3M": "-0,14%",
+                        "6M": "2,65%",
+                        "12M": "5,51%",
+                        "36M": "29,11%",
+                        "60M": "29,55%",
+                        "YTD": "3,72%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7G",
+                    "pricing_date": "08.10.2026",
+                    "value": "170,84",
+                    "return": {
+                        "1D": "-0,17%",
+                        "1M": "-1,63%",
+                        "3M": "-0,10%",
+                        "6M": "2,75%",
+                        "12M": "5,72%",
+                        "36M": "29,88%",
+                        "60M": "30,79%",
+                        "YTD": "3,89%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Surowców",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-alternatywne/ing-surowcow",
+            "fund_id": 23,
+            "previous_name": "dawniej Goldman Sachs Indeks Surowców",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "alternatywny",
+            "type_colour_hex": "#FFE100",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "59",
+                    "pricing_date": "08.10.2026",
+                    "value": "332,89",
+                    "return": {
+                        "1D": "0,74%",
+                        "1M": "-0,02%",
+                        "3M": "12,70%",
+                        "6M": "11,12%",
+                        "12M": "35,61%",
+                        "36M": "53,93%",
+                        "60M": "60,61%",
+                        "YTD": "29,65%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2W",
+                    "pricing_date": "08.10.2026",
+                    "value": "370,51",
+                    "return": {
+                        "1D": "0,74%",
+                        "1M": "0,02%",
+                        "3M": "12,82%",
+                        "6M": "11,36%",
+                        "12M": "36,20%",
+                        "36M": "55,95%",
+                        "60M": "64,09%",
+                        "YTD": "30,08%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3W",
+                    "pricing_date": "08.10.2026",
+                    "value": "386,95",
+                    "return": {
+                        "1D": "0,74%",
+                        "1M": "0,04%",
+                        "3M": "12,91%",
+                        "6M": "11,52%",
+                        "12M": "36,65%",
+                        "36M": "57,74%",
+                        "60M": "67,29%",
+                        "YTD": "30,40%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "A8",
+                    "pricing_date": "08.10.2026",
+                    "value": "339,84",
+                    "return": {
+                        "1D": "0,74%",
+                        "1M": "0,02%",
+                        "3M": "12,81%",
+                        "6M": "11,34%",
+                        "12M": "36,15%",
+                        "36M": "55,79%",
+                        "60M": "63,80%",
+                        "YTD": "30,04%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "5Z",
+                    "pricing_date": "08.10.2026",
+                    "value": "367,68",
+                    "return": {
+                        "1D": "0,74%",
+                        "1M": "0,07%",
+                        "3M": "13,00%",
+                        "6M": "11,72%",
+                        "12M": "37,05%",
+                        "36M": "58,83%",
+                        "60M": "69,13%",
+                        "YTD": "30,71%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "76",
+                    "pricing_date": "08.10.2026",
+                    "value": "388,83",
+                    "return": {
+                        "1D": "0,74%",
+                        "1M": "0,03%",
+                        "3M": "12,85%",
+                        "6M": "11,41%",
+                        "12M": "36,33%",
+                        "36M": "56,42%",
+                        "60M": "64,91%",
+                        "YTD": "30,18%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7I",
+                    "pricing_date": "08.10.2026",
+                    "value": "357,88",
+                    "return": {
+                        "1D": "0,74%",
+                        "1M": "0,06%",
+                        "3M": "12,96%",
+                        "6M": "11,64%",
+                        "12M": "36,87%",
+                        "36M": "58,27%",
+                        "60M": "68,18%",
+                        "YTD": "30,57%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Total Return",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-alternatywne/ing-total-return",
+            "fund_id": 1500125,
+            "previous_name": "dawniej Goldman Sachs Total Return",
+            "umbrella_name": "ING SFIO",
+            "umbrella_colour_hex": "#7724FF",
+            "analizy_rating": 0,
+            "type_name": "alternatywny",
+            "type_colour_hex": "#FFE100",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 4,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "A6",
+                    "pricing_date": "08.10.2026",
+                    "value": "148,58",
+                    "return": {
+                        "1D": "-0,56%",
+                        "1M": "-0,24%",
+                        "3M": "0,97%",
+                        "6M": "5,51%",
+                        "12M": "5,20%",
+                        "36M": "33,44%",
+                        "60M": "48,95%",
+                        "YTD": "7,43%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "F5",
+                    "pricing_date": "08.10.2026",
+                    "value": "150,07",
+                    "return": {
+                        "1D": "-0,55%",
+                        "1M": "-0,13%",
+                        "3M": "1,29%",
+                        "6M": "6,19%",
+                        "12M": "5,56%",
+                        "YTD": "8,64%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "F6",
+                    "pricing_date": "08.10.2026",
+                    "value": "150,53",
+                    "return": {
+                        "1D": "-0,55%",
+                        "1M": "-0,11%",
+                        "3M": "1,17%",
+                        "6M": "5,71%",
+                        "12M": "5,06%",
+                        "YTD": "7,84%"
+                    }
+                },
+                {
+                    "category_unit": "P",
+                    "afs": "G8",
+                    "pricing_date": "08.10.2026",
+                    "value": "147,88",
+                    "return": {
+                        "1D": "-0,48%",
+                        "1M": "-0,16%",
+                        "3M": "1,01%",
+                        "6M": "5,16%",
+                        "12M": "3,80%",
+                        "YTD": "7,13%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "F9",
+                    "pricing_date": "08.10.2026",
+                    "value": "150,52",
+                    "return": {
+                        "1D": "-0,55%",
+                        "1M": "-0,11%",
+                        "3M": "1,39%",
+                        "6M": "6,38%",
+                        "12M": "5,87%",
+                        "YTD": "8,91%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "G3",
+                    "pricing_date": "08.10.2026",
+                    "value": "150,20",
+                    "return": {
+                        "1D": "-0,55%",
+                        "1M": "-0,12%",
+                        "3M": "1,33%",
+                        "6M": "6,27%",
+                        "12M": "5,65%",
+                        "YTD": "8,74%"
+                    }
+                },
+                {
+                    "category_unit": "U",
+                    "afs": "C4",
+                    "pricing_date": "08.10.2026",
+                    "value": "161,31",
+                    "return": {
+                        "1D": "-0,55%",
+                        "1M": "-0,13%",
+                        "3M": "1,29%",
+                        "6M": "6,19%",
+                        "12M": "5,48%",
+                        "YTD": "8,61%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "G4",
+                    "pricing_date": "08.10.2026",
+                    "value": "150,33",
+                    "return": {
+                        "1D": "-0,55%",
+                        "1M": "-0,11%",
+                        "3M": "1,36%",
+                        "6M": "6,32%",
+                        "12M": "5,73%",
+                        "YTD": "8,80%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Perspektywa 2030",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-cyklu-zycia/ing-perspektywa-2030",
+            "fund_id": 33,
+            "previous_name": "dawniej Goldman Sachs Perspektywa 2030",
+            "umbrella_name": "ING Perspektywa SFIO",
+            "umbrella_colour_hex": "#AA9600",
+            "analizy_rating": 0,
+            "type_name": "cyklu życia",
+            "type_colour_hex": "#65FF39",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 4,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "82",
+                    "pricing_date": "08.10.2026",
+                    "value": "193,12",
+                    "return": {
+                        "1D": "-0,11%",
+                        "1M": "-0,73%",
+                        "3M": "-0,98%",
+                        "6M": "4,29%",
+                        "12M": "6,19%",
+                        "36M": "31,80%",
+                        "60M": "31,22%",
+                        "YTD": "3,43%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2H",
+                    "pricing_date": "08.10.2026",
+                    "value": "204,80",
+                    "return": {
+                        "1D": "-0,11%",
+                        "1M": "-0,71%",
+                        "3M": "-0,91%",
+                        "6M": "4,44%",
+                        "12M": "6,48%",
+                        "36M": "33,00%",
+                        "60M": "33,40%",
+                        "YTD": "3,65%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3H",
+                    "pricing_date": "08.10.2026",
+                    "value": "219,87",
+                    "return": {
+                        "1D": "-0,11%",
+                        "1M": "-0,68%",
+                        "3M": "-0,82%",
+                        "6M": "4,64%",
+                        "12M": "6,95%",
+                        "36M": "35,01%",
+                        "60M": "36,91%",
+                        "YTD": "3,99%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1H",
+                    "pricing_date": "08.10.2026",
+                    "value": "203,13",
+                    "return": {
+                        "1D": "-0,11%",
+                        "1M": "-0,69%",
+                        "3M": "-0,87%",
+                        "6M": "4,53%",
+                        "12M": "6,67%",
+                        "36M": "33,26%",
+                        "60M": "33,38%",
+                        "YTD": "3,79%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6K",
+                    "pricing_date": "08.10.2026",
+                    "value": "209,42",
+                    "return": {
+                        "1D": "-0,10%",
+                        "1M": "-0,66%",
+                        "3M": "-0,77%",
+                        "6M": "4,75%",
+                        "12M": "7,12%",
+                        "36M": "35,50%",
+                        "60M": "37,68%",
+                        "YTD": "4,13%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "92",
+                    "pricing_date": "08.10.2026",
+                    "value": "216,39",
+                    "return": {
+                        "1D": "-0,11%",
+                        "1M": "-0,69%",
+                        "3M": "-0,86%",
+                        "6M": "4,57%",
+                        "12M": "6,75%",
+                        "36M": "34,17%",
+                        "60M": "35,47%",
+                        "YTD": "3,85%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7C",
+                    "pricing_date": "08.10.2026",
+                    "value": "206,59",
+                    "return": {
+                        "1D": "-0,11%",
+                        "1M": "-0,67%",
+                        "3M": "-0,79%",
+                        "6M": "4,70%",
+                        "12M": "7,02%",
+                        "36M": "35,08%",
+                        "60M": "36,90%",
+                        "YTD": "4,06%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Perspektywa 2035",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-cyklu-zycia/ing-perspektywa-2035",
+            "fund_id": 32,
+            "previous_name": "dawniej Goldman Sachs Perspektywa 2035",
+            "umbrella_name": "ING Perspektywa SFIO",
+            "umbrella_colour_hex": "#AA9600",
+            "analizy_rating": 0,
+            "type_name": "cyklu życia",
+            "type_colour_hex": "#65FF39",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "83",
+                    "pricing_date": "08.10.2026",
+                    "value": "204,87",
+                    "return": {
+                        "1D": "-0,19%",
+                        "1M": "-0,66%",
+                        "3M": "0,42%",
+                        "6M": "6,64%",
+                        "12M": "9,33%",
+                        "36M": "40,20%",
+                        "60M": "38,77%",
+                        "YTD": "6,43%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2I",
+                    "pricing_date": "08.10.2026",
+                    "value": "218,61",
+                    "return": {
+                        "1D": "-0,20%",
+                        "1M": "-0,64%",
+                        "3M": "0,50%",
+                        "6M": "6,82%",
+                        "12M": "9,69%",
+                        "36M": "41,76%",
+                        "60M": "41,60%",
+                        "YTD": "6,70%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3I",
+                    "pricing_date": "08.10.2026",
+                    "value": "237,54",
+                    "return": {
+                        "1D": "-0,19%",
+                        "1M": "-0,60%",
+                        "3M": "0,61%",
+                        "6M": "7,06%",
+                        "12M": "10,23%",
+                        "36M": "44,12%",
+                        "60M": "45,69%",
+                        "YTD": "7,09%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1I",
+                    "pricing_date": "08.10.2026",
+                    "value": "217,33",
+                    "return": {
+                        "1D": "-0,19%",
+                        "1M": "-0,64%",
+                        "3M": "0,49%",
+                        "6M": "6,78%",
+                        "12M": "9,61%",
+                        "36M": "41,60%",
+                        "60M": "41,44%",
+                        "YTD": "6,64%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6M",
+                    "pricing_date": "08.10.2026",
+                    "value": "224,49",
+                    "return": {
+                        "1D": "-0,20%",
+                        "1M": "-0,58%",
+                        "3M": "0,66%",
+                        "6M": "7,17%",
+                        "12M": "10,41%",
+                        "36M": "44,65%",
+                        "60M": "46,51%",
+                        "YTD": "7,23%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "93",
+                    "pricing_date": "08.10.2026",
+                    "value": "234,30",
+                    "return": {
+                        "1D": "-0,19%",
+                        "1M": "-0,60%",
+                        "3M": "0,59%",
+                        "6M": "7,01%",
+                        "12M": "10,08%",
+                        "36M": "43,35%",
+                        "60M": "44,29%",
+                        "YTD": "6,99%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7D",
+                    "pricing_date": "08.10.2026",
+                    "value": "221,32",
+                    "return": {
+                        "1D": "-0,19%",
+                        "1M": "-0,59%",
+                        "3M": "0,64%",
+                        "6M": "7,12%",
+                        "12M": "10,31%",
+                        "36M": "44,20%",
+                        "60M": "45,69%",
+                        "YTD": "7,16%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Perspektywa 2040",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-cyklu-zycia/ing-perspektywa-2040",
+            "fund_id": 31,
+            "previous_name": "dawniej Goldman Sachs Perspektywa 2040",
+            "umbrella_name": "ING Perspektywa SFIO",
+            "umbrella_colour_hex": "#AA9600",
+            "analizy_rating": 0,
+            "type_name": "cyklu życia",
+            "type_colour_hex": "#65FF39",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "84",
+                    "pricing_date": "08.10.2026",
+                    "value": "209,66",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,62%",
+                        "3M": "1,23%",
+                        "6M": "8,04%",
+                        "12M": "11,23%",
+                        "36M": "45,44%",
+                        "60M": "42,66%",
+                        "YTD": "8,23%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2J",
+                    "pricing_date": "08.10.2026",
+                    "value": "225,38",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,58%",
+                        "3M": "1,34%",
+                        "6M": "8,27%",
+                        "12M": "11,70%",
+                        "36M": "47,34%",
+                        "60M": "45,86%",
+                        "YTD": "8,59%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3J",
+                    "pricing_date": "08.10.2026",
+                    "value": "247,97",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,55%",
+                        "3M": "1,46%",
+                        "6M": "8,54%",
+                        "12M": "12,30%",
+                        "36M": "50,19%",
+                        "60M": "50,93%",
+                        "YTD": "9,02%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1J",
+                    "pricing_date": "08.10.2026",
+                    "value": "225,41",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,58%",
+                        "3M": "1,35%",
+                        "6M": "8,29%",
+                        "12M": "11,73%",
+                        "36M": "47,78%",
+                        "60M": "46,68%",
+                        "YTD": "8,61%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6N",
+                    "pricing_date": "08.10.2026",
+                    "value": "232,57",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,53%",
+                        "3M": "1,52%",
+                        "6M": "8,65%",
+                        "12M": "12,48%",
+                        "36M": "50,75%",
+                        "60M": "51,78%",
+                        "YTD": "9,18%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "94",
+                    "pricing_date": "08.10.2026",
+                    "value": "244,94",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,55%",
+                        "3M": "1,44%",
+                        "6M": "8,49%",
+                        "12M": "12,14%",
+                        "36M": "49,39%",
+                        "60M": "49,48%",
+                        "YTD": "8,92%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7E",
+                    "pricing_date": "08.10.2026",
+                    "value": "229,03",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,53%",
+                        "3M": "1,49%",
+                        "6M": "8,60%",
+                        "12M": "12,38%",
+                        "36M": "50,27%",
+                        "60M": "50,92%",
+                        "YTD": "9,10%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Perspektywa 2045",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-cyklu-zycia/ing-perspektywa-2045",
+            "fund_id": 26,
+            "previous_name": "dawniej Goldman Sachs Perspektywa 2045",
+            "umbrella_name": "ING Perspektywa SFIO",
+            "umbrella_colour_hex": "#AA9600",
+            "analizy_rating": 0,
+            "type_name": "cyklu życia",
+            "type_colour_hex": "#65FF39",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "85",
+                    "pricing_date": "08.10.2026",
+                    "value": "217,81",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "-0,59%",
+                        "3M": "2,02%",
+                        "6M": "9,34%",
+                        "12M": "13,11%",
+                        "36M": "51,14%",
+                        "60M": "47,26%",
+                        "YTD": "10,01%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2K",
+                    "pricing_date": "08.10.2026",
+                    "value": "235,07",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "-0,55%",
+                        "3M": "2,12%",
+                        "6M": "9,57%",
+                        "12M": "13,58%",
+                        "36M": "53,26%",
+                        "60M": "50,94%",
+                        "YTD": "10,37%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3K",
+                    "pricing_date": "08.10.2026",
+                    "value": "259,49",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "-0,50%",
+                        "3M": "2,29%",
+                        "6M": "9,93%",
+                        "12M": "14,36%",
+                        "36M": "56,75%",
+                        "60M": "56,87%",
+                        "YTD": "10,94%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1K",
+                    "pricing_date": "08.10.2026",
+                    "value": "234,95",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "-0,53%",
+                        "3M": "2,18%",
+                        "6M": "9,70%",
+                        "12M": "13,84%",
+                        "36M": "53,93%",
+                        "60M": "51,63%",
+                        "YTD": "10,56%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6O",
+                    "pricing_date": "08.10.2026",
+                    "value": "243,76",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "-0,48%",
+                        "3M": "2,35%",
+                        "6M": "10,04%",
+                        "12M": "14,55%",
+                        "36M": "57,33%",
+                        "60M": "57,75%",
+                        "YTD": "11,10%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "95",
+                    "pricing_date": "08.10.2026",
+                    "value": "257,14",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "-0,51%",
+                        "3M": "2,27%",
+                        "6M": "9,87%",
+                        "12M": "14,21%",
+                        "36M": "55,91%",
+                        "60M": "55,40%",
+                        "YTD": "10,84%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7F",
+                    "pricing_date": "08.10.2026",
+                    "value": "240,24",
+                    "return": {
+                        "1D": "-0,29%",
+                        "1M": "-0,49%",
+                        "3M": "2,32%",
+                        "6M": "9,99%",
+                        "12M": "14,45%",
+                        "36M": "56,88%",
+                        "60M": "56,92%",
+                        "YTD": "11,02%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Perspektywa 2050",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-cyklu-zycia/ing-perspektywa-2050",
+            "fund_id": 1500080,
+            "previous_name": "dawniej Goldman Sachs Perspektywa 2050",
+            "umbrella_name": "ING Perspektywa SFIO",
+            "umbrella_colour_hex": "#AA9600",
+            "analizy_rating": 0,
+            "type_name": "cyklu życia",
+            "type_colour_hex": "#65FF39",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "7X",
+                    "pricing_date": "08.10.2026",
+                    "value": "175,65",
+                    "return": {
+                        "1D": "-0,33%",
+                        "1M": "-0,57%",
+                        "3M": "2,72%",
+                        "6M": "10,53%",
+                        "12M": "14,61%",
+                        "36M": "55,62%",
+                        "60M": "50,84%",
+                        "YTD": "11,55%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "8D",
+                    "pricing_date": "08.10.2026",
+                    "value": "190,97",
+                    "return": {
+                        "1D": "-0,33%",
+                        "1M": "-0,46%",
+                        "3M": "3,05%",
+                        "6M": "11,25%",
+                        "12M": "16,15%",
+                        "36M": "62,14%",
+                        "60M": "61,46%",
+                        "YTD": "12,69%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "8A",
+                    "pricing_date": "08.10.2026",
+                    "value": "182,87",
+                    "return": {
+                        "1D": "-0,33%",
+                        "1M": "-0,52%",
+                        "3M": "2,86%",
+                        "6M": "10,83%",
+                        "12M": "15,24%",
+                        "36M": "58,21%",
+                        "60M": "55,04%",
+                        "YTD": "12,02%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "9Q",
+                    "pricing_date": "08.10.2026",
+                    "value": "194,40",
+                    "return": {
+                        "1D": "-0,33%",
+                        "1M": "-0,45%",
+                        "3M": "3,10%",
+                        "6M": "11,36%",
+                        "12M": "16,33%",
+                        "36M": "62,81%",
+                        "60M": "62,61%",
+                        "YTD": "12,84%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "8F",
+                    "pricing_date": "08.10.2026",
+                    "value": "185,14",
+                    "return": {
+                        "1D": "-0,33%",
+                        "1M": "-0,47%",
+                        "3M": "3,02%",
+                        "6M": "11,18%",
+                        "12M": "15,97%",
+                        "36M": "61,43%",
+                        "YTD": "12,56%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "8H",
+                    "pricing_date": "08.10.2026",
+                    "value": "191,26",
+                    "return": {
+                        "1D": "-0,33%",
+                        "1M": "-0,46%",
+                        "3M": "3,07%",
+                        "6M": "11,28%",
+                        "12M": "16,17%",
+                        "36M": "62,03%",
+                        "60M": "60,43%",
+                        "YTD": "12,71%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Perspektywa 2060",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-cyklu-zycia/ing-perspektywa-2060",
+            "fund_id": 1500081,
+            "previous_name": "dawniej Goldman Sachs Perspektywa 2060",
+            "umbrella_name": "ING Perspektywa SFIO",
+            "umbrella_colour_hex": "#AA9600",
+            "analizy_rating": 0,
+            "type_name": "cyklu życia",
+            "type_colour_hex": "#65FF39",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "7Y",
+                    "pricing_date": "08.10.2026",
+                    "value": "182,23",
+                    "return": {
+                        "1D": "-0,36%",
+                        "1M": "-0,54%",
+                        "3M": "3,12%",
+                        "6M": "11,24%",
+                        "12M": "15,50%",
+                        "36M": "59,71%",
+                        "60M": "54,84%",
+                        "YTD": "12,38%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "8E",
+                    "pricing_date": "08.10.2026",
+                    "value": "197,14",
+                    "return": {
+                        "1D": "-0,35%",
+                        "1M": "-0,43%",
+                        "3M": "3,46%",
+                        "6M": "11,97%",
+                        "12M": "17,02%",
+                        "36M": "66,36%",
+                        "60M": "65,83%",
+                        "YTD": "13,51%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "8B",
+                    "pricing_date": "08.10.2026",
+                    "value": "189,73",
+                    "return": {
+                        "1D": "-0,36%",
+                        "1M": "-0,49%",
+                        "3M": "3,27%",
+                        "6M": "11,55%",
+                        "12M": "16,14%",
+                        "36M": "62,38%",
+                        "60M": "59,16%",
+                        "YTD": "12,85%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "9S",
+                    "pricing_date": "08.10.2026",
+                    "value": "201,69",
+                    "return": {
+                        "1D": "-0,35%",
+                        "1M": "-0,42%",
+                        "3M": "3,49%",
+                        "6M": "12,05%",
+                        "12M": "17,17%",
+                        "36M": "66,91%",
+                        "60M": "66,73%",
+                        "YTD": "13,63%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "8G",
+                    "pricing_date": "08.10.2026",
+                    "value": "194,64",
+                    "return": {
+                        "1D": "-0,35%",
+                        "1M": "-0,44%",
+                        "3M": "3,42%",
+                        "6M": "11,89%",
+                        "12M": "16,86%",
+                        "36M": "65,64%",
+                        "60M": "64,61%",
+                        "YTD": "13,39%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "8I",
+                    "pricing_date": "08.10.2026",
+                    "value": "198,32",
+                    "return": {
+                        "1D": "-0,36%",
+                        "1M": "-0,44%",
+                        "3M": "3,45%",
+                        "6M": "11,96%",
+                        "12M": "17,00%",
+                        "36M": "66,10%",
+                        "60M": "64,74%",
+                        "YTD": "13,50%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Spokojna Perspektywa",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-cyklu-zycia/ing-spokojna-perspektywa",
+            "fund_id": 16,
+            "previous_name": "dawniej Goldman Sachs Perspektywa 2025",
+            "umbrella_name": "ING Perspektywa SFIO",
+            "umbrella_colour_hex": "#AA9600",
+            "analizy_rating": 0,
+            "type_name": "cyklu życia",
+            "type_colour_hex": "#65FF39",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 2,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "81",
+                    "pricing_date": "08.10.2026",
+                    "value": "173,36",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,58%",
+                        "3M": "-1,89%",
+                        "6M": "0,78%",
+                        "12M": "1,56%",
+                        "36M": "19,14%",
+                        "60M": "19,93%",
+                        "YTD": "-0,49%"
+                    }
+                },
+                {
+                    "category_unit": "E",
+                    "afs": "2G",
+                    "pricing_date": "08.10.2026",
+                    "value": "180,98",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,59%",
+                        "3M": "-1,89%",
+                        "6M": "0,77%",
+                        "12M": "1,62%",
+                        "36M": "19,94%",
+                        "60M": "21,54%",
+                        "YTD": "-0,50%"
+                    }
+                },
+                {
+                    "category_unit": "F",
+                    "afs": "3G",
+                    "pricing_date": "08.10.2026",
+                    "value": "194,26",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,56%",
+                        "3M": "-1,80%",
+                        "6M": "0,97%",
+                        "12M": "2,07%",
+                        "36M": "21,68%",
+                        "60M": "24,53%",
+                        "YTD": "-0,18%"
+                    }
+                },
+                {
+                    "category_unit": "K",
+                    "afs": "1G",
+                    "pricing_date": "08.10.2026",
+                    "value": "182,35",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,58%",
+                        "3M": "-1,85%",
+                        "6M": "0,86%",
+                        "12M": "1,79%",
+                        "36M": "20,49%",
+                        "60M": "22,33%",
+                        "YTD": "-0,38%"
+                    }
+                },
+                {
+                    "category_unit": "S",
+                    "afs": "6J",
+                    "pricing_date": "08.10.2026",
+                    "value": "186,46",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,54%",
+                        "3M": "-1,75%",
+                        "6M": "1,07%",
+                        "12M": "2,23%",
+                        "36M": "22,12%",
+                        "60M": "25,22%",
+                        "YTD": "-0,05%"
+                    }
+                },
+                {
+                    "category_unit": "T",
+                    "afs": "91",
+                    "pricing_date": "08.10.2026",
+                    "value": "190,36",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,57%",
+                        "3M": "-1,83%",
+                        "6M": "0,90%",
+                        "12M": "1,88%",
+                        "36M": "20,85%",
+                        "60M": "23,04%",
+                        "YTD": "-0,31%"
+                    }
+                },
+                {
+                    "category_unit": "W",
+                    "afs": "7B",
+                    "pricing_date": "08.10.2026",
+                    "value": "184,05",
+                    "return": {
+                        "1D": "0,03%",
+                        "1M": "-0,55%",
+                        "3M": "-1,77%",
+                        "6M": "1,02%",
+                        "12M": "2,13%",
+                        "36M": "21,70%",
+                        "60M": "24,48%",
+                        "YTD": "-0,12%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2025",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2025",
+            "fund_id": 1500082,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2025",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 2,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "001",
+                    "pricing_date": "08.10.2026",
+                    "value": "14,66",
+                    "return": {
+                        "1D": "-0,14%",
+                        "1M": "-0,48%",
+                        "3M": "-0,61%",
+                        "6M": "2,02%",
+                        "12M": "5,24%",
+                        "36M": "29,62%",
+                        "60M": "29,96%",
+                        "YTD": "2,66%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2030",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2030",
+            "fund_id": 1500083,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2030",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 4,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "002",
+                    "pricing_date": "08.10.2026",
+                    "value": "16,49",
+                    "return": {
+                        "1D": "-0,24%",
+                        "1M": "-0,42%",
+                        "3M": "0,61%",
+                        "6M": "4,43%",
+                        "12M": "8,99%",
+                        "36M": "42,52%",
+                        "60M": "41,18%",
+                        "YTD": "6,05%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2035",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2035",
+            "fund_id": 1500084,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2035",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "003",
+                    "pricing_date": "08.10.2026",
+                    "value": "19,02",
+                    "return": {
+                        "1D": "-0,42%",
+                        "1M": "-0,31%",
+                        "3M": "2,87%",
+                        "6M": "8,31%",
+                        "12M": "15,06%",
+                        "36M": "60,64%",
+                        "60M": "58,10%",
+                        "YTD": "11,29%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2040",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2040",
+            "fund_id": 1500085,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2040",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "004",
+                    "pricing_date": "08.10.2026",
+                    "value": "21,17",
+                    "return": {
+                        "1D": "-0,52%",
+                        "1M": "-0,24%",
+                        "3M": "4,59%",
+                        "6M": "11,25%",
+                        "12M": "19,74%",
+                        "36M": "73,67%",
+                        "60M": "69,90%",
+                        "YTD": "15,37%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2045",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2045",
+            "fund_id": 1500086,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2045",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 3,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "005",
+                    "pricing_date": "08.10.2026",
+                    "value": "22,03",
+                    "return": {
+                        "1D": "-0,54%",
+                        "1M": "-0,18%",
+                        "3M": "5,00%",
+                        "6M": "11,88%",
+                        "12M": "20,65%",
+                        "36M": "80,43%",
+                        "60M": "75,54%",
+                        "YTD": "16,25%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2050",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2050",
+            "fund_id": 1500087,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2050",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "006",
+                    "pricing_date": "08.10.2026",
+                    "value": "23,06",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,13%",
+                        "3M": "5,97%",
+                        "6M": "13,43%",
+                        "12M": "23,25%",
+                        "36M": "89,02%",
+                        "60M": "82,87%",
+                        "YTD": "18,50%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2055",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2055",
+            "fund_id": 1500088,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2055",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "007",
+                    "pricing_date": "08.10.2026",
+                    "value": "23,40",
+                    "return": {
+                        "1D": "-0,59%",
+                        "1M": "-0,09%",
+                        "3M": "6,41%",
+                        "6M": "14,31%",
+                        "12M": "24,34%",
+                        "36M": "91,02%",
+                        "60M": "84,54%",
+                        "YTD": "19,51%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2060",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2060",
+            "fund_id": 1500089,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2060",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "008",
+                    "pricing_date": "08.10.2026",
+                    "value": "24,45",
+                    "return": {
+                        "1D": "-0,57%",
+                        "1M": "-0,08%",
+                        "3M": "6,30%",
+                        "6M": "13,99%",
+                        "12M": "23,86%",
+                        "36M": "88,80%",
+                        "60M": "81,51%",
+                        "YTD": "19,09%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2065",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2065",
+            "fund_id": 1500092,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2065",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "009",
+                    "pricing_date": "08.10.2026",
+                    "value": "19,77",
+                    "return": {
+                        "1D": "-0,60%",
+                        "1M": "-0,10%",
+                        "3M": "6,06%",
+                        "6M": "13,49%",
+                        "12M": "22,87%",
+                        "36M": "86,69%",
+                        "60M": "77,47%",
+                        "YTD": "18,24%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Emerytura 2070",
+            "fund_page_url": "/fundusze-inwestycyjne/fundusze-emerytura-ppk/ing-emerytura-2070",
+            "fund_id": 1500126,
+            "previous_name": "dawniej Goldman Sachs Emerytura 2070",
+            "umbrella_name": "ING Emerytura SFIO",
+            "umbrella_colour_hex": "#185A7B",
+            "analizy_rating": 0,
+            "type_name": "Emerytura (PPK)",
+            "type_colour_hex": "#B487FF",
+            "currency": "PLN",
+            "risk": 4,
+            "investment_period": 5,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "010",
+                    "pricing_date": "08.10.2026",
+                    "value": "11,81",
+                    "return": {
+                        "1D": "-0,59%",
+                        "1M": "0,51%",
+                        "3M": "6,40%",
+                        "6M": "14,88%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Pakiet Ostrożny",
+            "fund_id": 1500042,
+            "umbrella_name": "ING Konto Funduszowe SFIO (tylko w ING Bank)",
+            "umbrella_colour_hex": "#505050",
+            "analizy_rating": 3,
+            "type_name": "obligacji",
+            "type_colour_hex": "#7724FF",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 2,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "01A",
+                    "pricing_date": "08.10.2026",
+                    "value": "139,37",
+                    "return": {
+                        "1D": "0,00%",
+                        "1M": "-0,36%",
+                        "3M": "-0,71%",
+                        "6M": "1,19%",
+                        "12M": "2,30%",
+                        "36M": "17,56%",
+                        "60M": "24,52%",
+                        "YTD": "0,97%"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ING Pakiet Umiarkowany",
+            "fund_id": 1500041,
+            "umbrella_name": "ING Konto Funduszowe SFIO (tylko w ING Bank)",
+            "umbrella_colour_hex": "#505050",
+            "analizy_rating": 0,
+            "type_name": "mieszany",
+            "type_colour_hex": "#1E8700",
+            "currency": "PLN",
+            "risk": 2,
+            "investment_period": 3,
+            "quotes": [
+                {
+                    "category_unit": "A",
+                    "afs": "02A",
+                    "pricing_date": "08.10.2026",
+                    "value": "151,21",
+                    "return": {
+                        "1D": "-0,40%",
+                        "1M": "-0,64%",
+                        "3M": "0,02%",
+                        "6M": "6,43%",
+                        "12M": "8,75%",
+                        "36M": "34,90%",
+                        "60M": "32,65%",
+                        "YTD": "5,87%"
+                    }
+                }
+            ]
+        }
+    ]
+}

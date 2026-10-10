@@ -11,6 +11,7 @@ pl:
       mfapi: MFAPI.in
       moex_public: MOEX
       analizy: Analizy.pl
+      ing_tfi: ING TFI
       tiingo: Tiingo
       twelve_data: Twelve Data
       yahoo_finance: Yahoo Finance

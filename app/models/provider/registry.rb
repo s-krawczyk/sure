@@ -161,6 +161,10 @@ class Provider::Registry
         Provider::Analizy.new
       end
 
+      def ing_tfi
+        Provider::IngTfi.new
+      end
+
       def binance_public
         Provider::BinancePublic.new
       end
@@ -228,7 +232,7 @@ class Provider::Registry
       when :exchange_rates
         %i[twelve_data yahoo_finance moex_public frankfurter]
       when :securities
-        %i[twelve_data yahoo_finance tiingo eodhd alpha_vantage mfapi binance_public moex_public tinkoff_invest mansa analizy]
+        %i[twelve_data yahoo_finance tiingo eodhd alpha_vantage mfapi binance_public moex_public tinkoff_invest mansa analizy ing_tfi]
       when :llm
         %i[openai anthropic]
       when :classification

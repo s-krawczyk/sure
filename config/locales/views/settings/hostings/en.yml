@@ -56,6 +56,7 @@ en:
         tinkoff_invest_hint: requires read-only token -- Russian stocks/funds/bonds prices + brand logos
         requires_api_key_mansa: requires API key, 100 calls/day free tier -- NGX (Nigerian Exchange) only
         analizy_hint: free, no API key -- Polish TFI mutual funds
+        ing_tfi_hint: free, no API key -- ING TFI (former Goldman Sachs TFI) funds, symbol <fund_id>.<class> e.g. 26.K
         providers:
           twelve_data: Twelve Data
           yahoo_finance: Yahoo Finance
@@ -69,6 +70,7 @@ en:
           frankfurter: Frankfurter
           mansa: Mansa
           analizy: Analizy.pl
+          ing_tfi: ING TFI
       assistant_settings:
         title: AI Assistant
         description: Choose how the chat assistant responds. Builtin uses your configured LLM provider directly. External delegates to a remote AI agent that can call back to Sure's financial tools via MCP.

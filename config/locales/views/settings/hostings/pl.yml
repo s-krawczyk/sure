@@ -252,6 +252,7 @@ pl:
         moex_public_hint: za darmo, bez klucza API - rosyjskie akcje, fundusze i obligacje
           (MOEX), łącznie z kursem RUB
         analizy_hint: za darmo, bez klucza API - polskie fundusze TFI
+        ing_tfi_hint: za darmo, bez klucza API - fundusze ING TFI (dawniej Goldman Sachs TFI), symbol <fund_id>.<klasa> np. 26.K
         providers:
           alpha_vantage: Alpha Vantage
           binance_public: Binance
@@ -260,6 +261,7 @@ pl:
           mfapi: MFAPI.in
           moex_public: MOEX
           analizy: Analizy.pl
+          ing_tfi: ING TFI
           tiingo: Tiingo
           tinkoff_invest: T-Invest (T-Bank)
           twelve_data: Twelve Data
